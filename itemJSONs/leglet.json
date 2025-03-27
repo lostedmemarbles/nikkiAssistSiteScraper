@@ -1,0 +1,9672 @@
+{
+	"P47": {
+		"name": "Fresh Socks",
+		"idNum": "47",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"future_design_material",
+			"decomposable",
+			"dryad",
+			"simple",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"top_scoring",
+			"in_suit",
+			"apple"
+		],
+		"description": "Give yourself more warm protection in this chilly winter.",
+		"rarity": 4,
+		"special-attributes": [
+			"Dryad"
+		],
+		"attributes": {
+			"Simple": "A",
+			"Lively": "A+",
+			"Cute": "S-",
+			"Pure": "S+",
+			"Warm": "S-"
+		},
+		"suit": [
+			"mori-girl-and-reindeer"
+		],
+		"used-to-craft": {
+			"H2755": 2,
+			"H3344": 8,
+			"H3381": 10,
+			"D2069": 10,
+			"C1514": 8,
+			"T767": 8,
+			"B416": 4,
+			"B870": 8,
+			"B1120": 4,
+			"B1187": 8,
+			"P321": 3,
+			"P352": 5,
+			"P388": 4,
+			"P392": 3,
+			"P516": 8,
+			"P527": 5,
+			"P539": 6,
+			"P546": 4,
+			"P553": 7,
+			"P555": 7,
+			"P565": 6,
+			"P582": 5,
+			"P587": 5,
+			"P590": 6,
+			"P600": 5,
+			"P612": 5,
+			"P664": 8,
+			"P666": 9,
+			"P711": 3,
+			"P716": 4,
+			"P726": 8,
+			"P728": 10,
+			"P747": 4,
+			"P752": 9,
+			"P762": 4,
+			"P767": 8,
+			"P789": 5,
+			"P808": 3,
+			"P812": 7,
+			"P853": 12,
+			"P868": 6,
+			"P869": 5,
+			"P891": 7,
+			"P892": 5,
+			"P956": 5,
+			"P995": 4,
+			"P1014": 5,
+			"P1035": 4,
+			"P1056": 2,
+			"P1067": 4,
+			"P1068": 4,
+			"P1098": 7,
+			"P1099": 7,
+			"P1103": 3,
+			"P1138": 8,
+			"P1200": 10,
+			"P1314": 7,
+			"P1337": 7,
+			"P1384": 6,
+			"P1385": 7,
+			"P1489": 8,
+			"P1496": 7,
+			"P1523": 6,
+			"P1549": 5,
+			"P1729": 7,
+			"P1730": 7,
+			"S1611": 7,
+			"S2860": 6,
+			"A4662": 6,
+			"A4668": 12,
+			"A5650": 11,
+			"A6100": 6,
+			"A6313": 11,
+			"A7004": 9,
+			"A7111": 3,
+			"A7165": 4,
+			"A7172": 4,
+			"A7294": 7,
+			"A7572": 5,
+			"A7596": 8,
+			"A8116": 3,
+			"M561": 9,
+			"M802": 12,
+			"Z11248": 7,
+			"Z12005": 7,
+			"Z12094": 9,
+			"Z12214": 6,
+			"Z12398": 6,
+			"Z12679": 7,
+			"Z12752": 7,
+			"Z12930": 5,
+			"Z13125": 6,
+			"Z13126": 7
+		},
+		"obtained-from": [
+			"Clothes shop"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P103": {
+		"name": "Sparrow Indigo",
+		"idNum": "103",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The lonely spring wind blows through the old cudrania branches. And the music stops.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "SS-",
+			"Mature": "A+",
+			"Sexy": "S",
+			"Cool": "S-"
+		},
+		"suit": [
+			"flying-peafowl"
+		],
+		"obtained-from": [
+			"Pavilion of Mystery",
+			"Pavilion of Fantasy"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P114": {
+		"name": "Diva's Anklet",
+		"idNum": "114",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"dancer",
+			"multicultural",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The people of western regions believe that dancing with bare foot shows their respect for god.",
+		"rarity": 4,
+		"special-attributes": [
+			"Dancer",
+			"Multicultural"
+		],
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "A-",
+			"Cute": "SS",
+			"Pure": "B-",
+			"Cool": "S"
+		},
+		"suit": [
+			"western-dancer"
+		],
+		"obtained-from": [
+			"Clothes shop"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P165": {
+		"name": "Studded Sock Welts",
+		"idNum": "165",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"musician",
+			"simple",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_3",
+			"top_scoring"
+		],
+		"description": "The welts appear to be very useful accessories for self-defense. Wouldn't they poke you?",
+		"rarity": 3,
+		"special-attributes": [
+			"Musician"
+		],
+		"attributes": {
+			"Simple": "A",
+			"Lively": "B+",
+			"Mature": "A",
+			"Sexy": "S+",
+			"Cool": "S-"
+		},
+		"obtained-from": [
+			"Pavilion of Mystery",
+			"Pavilion of Fantasy",
+			"Clothes shop"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P174": {
+		"name": "Galaxy Sock Welts",
+		"idNum": "174",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"apple"
+		],
+		"description": "Sock welts from the Bright Galaxy suit. Regarded as the finishing touch accessories.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "C+",
+			"Elegance": "C+",
+			"Mature": "B+",
+			"Sexy": "B",
+			"Cool": "B"
+		},
+		"suit": [
+			"bright-galaxy"
+		],
+		"obtained-from": [
+			"7-day login reward"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P211": {
+		"name": "Lunar Ripple",
+		"idNum": "211",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"chinese_classical",
+			"simple",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The water is as clear as glaze. And the ripples are gleaming. I am drinking alone in moonlight.",
+		"rarity": 5,
+		"special-attributes": [
+			"Chinese Classical"
+		],
+		"attributes": {
+			"Simple": "S-",
+			"Elegance": "SS-",
+			"Mature": "S-",
+			"Pure": "S+",
+			"Cool": "A"
+		},
+		"suit": [
+			"moon-in-water"
+		],
+		"obtained-from": [
+			"Porch of Misty",
+			"Pavilion of Jade"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P214": {
+		"name": "Elf Anklet",
+		"idNum": "214",
+		"idChar": "P",
+		"tags": [
+			"evolvable",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_3"
+		],
+		"description": "Elves usually fly over or jump across lakes or leaves. They are agile and graceful.",
+		"rarity": 3,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "B+",
+			"Mature": "S-",
+			"Sexy": "S+",
+			"Cool": "A"
+		},
+		"crafted-from": {
+			"A189": 2,
+			"B161": 3,
+			"P116": 6
+		},
+		"obtained-from": [
+			"Store of Starlight recipe"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P215": {
+		"name": "Elf Anklet·Rare",
+		"idNum": "215",
+		"idChar": "P",
+		"tags": [
+			"evolvable",
+			"evolved",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4"
+		],
+		"description": "Elves usually fly over or jump across lakes or leaves. They are agile and graceful.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "A-",
+			"Mature": "A",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P216": {
+		"name": "Elf Anklet·Epic",
+		"idNum": "216",
+		"idChar": "P",
+		"tags": [
+			"evolved",
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Elves usually fly over or jump across lakes or leaves. They are agile and graceful.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S+",
+			"Elegance": "A",
+			"Mature": "A",
+			"Sexy": "SS-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"light-fairy",
+			"light-fairy-v1"
+		],
+		"used-to-craft": {
+			"P255": 1,
+			"S497": 5,
+			"S595": 1
+		},
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P221": {
+		"name": "Tarot",
+		"idNum": "221",
+		"idChar": "P",
+		"tags": [
+			"evolvable",
+			"decomposable",
+			"traditional",
+			"simple",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_3"
+		],
+		"description": "They are enigmatic and erratic...",
+		"rarity": 3,
+		"special-attributes": [
+			"Traditional"
+		],
+		"attributes": {
+			"Simple": "A-",
+			"Elegance": "S",
+			"Mature": "B",
+			"Sexy": "S+",
+			"Cool": "A"
+		},
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P222": {
+		"name": "Tarot·Rare",
+		"idNum": "222",
+		"idChar": "P",
+		"tags": [
+			"evolvable",
+			"evolved",
+			"decomposable",
+			"traditional",
+			"simple",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"top_scoring"
+		],
+		"description": "They are enigmatic and erratic...",
+		"rarity": 4,
+		"special-attributes": [
+			"Traditional"
+		],
+		"attributes": {
+			"Simple": "S",
+			"Lively": "S+",
+			"Mature": "A",
+			"Sexy": "A",
+			"Cool": "A"
+		},
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P223": {
+		"name": "Tarot·Epic",
+		"idNum": "223",
+		"idChar": "P",
+		"tags": [
+			"evolved",
+			"traditional",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "They are enigmatic and erratic. They are a beautiful scene in the western regions of Cloud Empire.",
+		"rarity": 5,
+		"special-attributes": [
+			"Traditional"
+		],
+		"attributes": {
+			"Gorgeous": "SS",
+			"Lively": "A-",
+			"Mature": "A",
+			"Sexy": "S+",
+			"Cool": "S-"
+		},
+		"suit": [
+			"tarot-fortuneteller"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P243": {
+		"name": "Officer's Pistol",
+		"idNum": "243",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"army",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"top_scoring",
+			"in_suit",
+			"north"
+		],
+		"description": "When Bobo picked up this pistol, Momo hid behind Nikki's back immediately.",
+		"rarity": 4,
+		"special-attributes": [
+			"Army"
+		],
+		"attributes": {
+			"Gorgeous": "SS-",
+			"Elegance": "A+",
+			"Mature": "A",
+			"Sexy": "S+",
+			"Cool": "B+"
+		},
+		"suit": [
+			"army-major",
+			"army-major-v1"
+		],
+		"used-to-craft": {
+			"A720": 1
+		},
+		"obtained-from": [
+			"Achievement: Top Student·Maiden·Phase 13"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P279": {
+		"name": "Tactical Bag",
+		"idNum": "279",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"four_seasons"
+		],
+		"description": "It's said that there are many secret weapons in Ace's leg bag. But no one has seen them once.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "B",
+			"Mature": "S+",
+			"Sexy": "S+",
+			"Warm": "A"
+		},
+		"suit": [
+			"heroine-in-armor"
+		],
+		"customization": [
+			"279",
+			"299"
+		],
+		"obtained-from": [
+			"Commission request suit (chapter 3)"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P282": {
+		"name": "Fluttering",
+		"idNum": "282",
+		"idChar": "P",
+		"tags": [
+			"evolvable",
+			"design_material",
+			"decomposable",
+			"simple",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_3"
+		],
+		"description": "The butterflies start a dance of invocation around elves, like snowflakes flying in the sky.",
+		"rarity": 3,
+		"attributes": {
+			"Simple": "S",
+			"Elegance": "B+",
+			"Cute": "A-",
+			"Pure": "S+",
+			"Cool": "B+"
+		},
+		"used-to-craft": {
+			"A899": 6
+		},
+		"obtained-from": [
+			"Chapter 11-5 Princess"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P283": {
+		"name": "Fluttering·Rare",
+		"idNum": "283",
+		"idChar": "P",
+		"tags": [
+			"evolvable",
+			"evolved",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4"
+		],
+		"description": "The butterflies start a dance of invocation around elves, like snowflakes flying in the sky.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "SS-",
+			"Mature": "S+",
+			"Sexy": "B+",
+			"Cool": "A-"
+		},
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P284": {
+		"name": "Fluttering·Epic",
+		"idNum": "284",
+		"idChar": "P",
+		"tags": [
+			"evolved",
+			"customizable",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "The butterflies start a dance of invocation around elves, like snowflakes flying in the sky.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "A",
+			"Mature": "SS-",
+			"Sexy": "SS",
+			"Cool": "A"
+		},
+		"suit": [
+			"lightly-dancing-butterfly"
+		],
+		"customization": [
+			"284",
+			"285",
+			"286"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P285": {
+		"name": "Fluttering·Purple",
+		"idNum": "285",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Purple butterflies start a dance of invocation around elves, like snowflakes flying in the sky.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "S+",
+			"Mature": "SS-",
+			"Sexy": "S-",
+			"Cool": "A+"
+		},
+		"suit": [
+			"lightly-dancing-butterfly-v1"
+		],
+		"customization": [
+			"284",
+			"285",
+			"286"
+		],
+		"used-to-craft": {
+			"A1114": 5
+		},
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P286": {
+		"name": "Fluttering·Pink",
+		"idNum": "286",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Pink butterflies start a dance of invocation around elves, like snowflakes flying in the sky.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS",
+			"Mature": "S+",
+			"Sexy": "A-",
+			"Cool": "A+"
+		},
+		"suit": [
+			"lightly-dancing-butterfly-v2"
+		],
+		"customization": [
+			"284",
+			"285",
+			"286"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P299": {
+		"name": "Tactical Bag·Purple",
+		"idNum": "299",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"four_seasons"
+		],
+		"description": "It is said that Ace specially asked the Master Magician to customize this to store hidden weapons.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "B",
+			"Elegance": "A-",
+			"Mature": "SS-",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"heroine-in-armor-v1"
+		],
+		"customization": [
+			"279",
+			"299"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P310": {
+		"name": "Dark Tunnel",
+		"idNum": "310",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"apple"
+		],
+		"description": "The dragon chained underground, hear my words. Spread your wings now and take me to the offshore!",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "B+",
+			"Lively": "A-",
+			"Mature": "S",
+			"Sexy": "SS-",
+			"Cool": "A+"
+		},
+		"suit": [
+			"lunar-spell"
+		],
+		"customization": [
+			"310",
+			"311"
+		],
+		"crafted-from": {
+			"D673": 5,
+			"P314": 6,
+			"P67": 6
+		},
+		"obtained-from": [
+			"Store of Starlight recipe"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P311": {
+		"name": "Illusion Tunnel",
+		"idNum": "311",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"apple"
+		],
+		"description": "When Joe Sjodin was casting her slowing magic, I almost believed she is indeed a witch.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "A-",
+			"Mature": "SS-",
+			"Sexy": "S+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"lunar-spell-v1"
+		],
+		"customization": [
+			"310",
+			"311"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P313": {
+		"name": "Bun's Determination",
+		"idNum": "313",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"cloud"
+		],
+		"description": "Vegetable buns, meat buns and smashed-bean buns. All of you come into my bowl now!",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "C+",
+			"Elegance": "A",
+			"Mature": "A",
+			"Pure": "B-",
+			"Cool": "C+"
+		},
+		"suit": [
+			"long-street-flavor"
+		],
+		"obtained-from": [
+			"Clothes shop"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P328": {
+		"name": "Butterfly Ring",
+		"idNum": "328",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "I will return, and by then we will adore the clouds together. This is his promise to Emmy.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "S+",
+			"Mature": "A",
+			"Pure": "SS-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"lantern-wish",
+			"lantern-wish-v1",
+			"lantern-wish-v2"
+		],
+		"obtained-from": [
+			"Time Yard",
+			"Pavilion of Glaze"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P329": {
+		"name": "Light Catkin",
+		"idNum": "329",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "I waited for so long that I forgot why I was even waiting.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS-",
+			"Mature": "A+",
+			"Pure": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"winds-whisper"
+		],
+		"obtained-from": [
+			"Time Yard",
+			"Pavilion of Glaze"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P356": {
+		"name": "Green Laces",
+		"idNum": "356",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"apple"
+		],
+		"description": "Shiba has no friends since it came to this world. But everything changed when Croak came.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "A+",
+			"Cute": "SS-",
+			"Pure": "S",
+			"Cool": "A+"
+		},
+		"suit": [
+			"shiba-and-croak"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P358": {
+		"name": "Deep Sea Melody",
+		"idNum": "358",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "What is land like? How do prince and sailors dress? When will my love come?",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S+",
+			"Elegance": "SS",
+			"Mature": "S-",
+			"Pure": "A-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"ocean-dream"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P360": {
+		"name": "Sunrise at Sea",
+		"idNum": "360",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"apple"
+		],
+		"description": "When the day begins, she dresses up and keeps the journey. She expects the next meeting of surprise.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "S",
+			"Mature": "A",
+			"Sexy": "S+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"wonderful-holidays"
+		],
+		"obtained-from": [
+			"Clothes shop"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P381": {
+		"name": "Butterfly Garters",
+		"idNum": "381",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"design_material",
+			"decomposable",
+			"animal",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Vanis is an unpredictable girl, like a butterfly among shrubs. You can never tell what she’s thinking.",
+		"rarity": 5,
+		"special-attributes": [
+			"Animal"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "A+",
+			"Mature": "S+",
+			"Sexy": "SS",
+			"Cool": "S-"
+		},
+		"suit": [
+			"phoenix-butterfly-mystery"
+		],
+		"customization": [
+			"381",
+			"382"
+		],
+		"used-to-craft": {
+			"S895": 5
+		},
+		"obtained-from": [
+			"Chapter 16-1 Princess"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P382": {
+		"name": "Butterfly Garters·Night",
+		"idNum": "382",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"animal",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Andrew believed her from the start. In the pure eyes of her lover, she opened up her closed inner world.",
+		"rarity": 5,
+		"special-attributes": [
+			"Animal"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "S",
+			"Mature": "SS-",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"phoenix-butterfly-mystery-v1"
+		],
+		"customization": [
+			"381",
+			"382"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P387": {
+		"name": "Spiritual Vow",
+		"idNum": "387",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "I'm back…' In my dream, you're back with still the shiny smile. I never want to wake up.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS",
+			"Mature": "SS",
+			"Sexy": "A",
+			"Warm": "A-"
+		},
+		"suit": [
+			"brocade-jade"
+		],
+		"crafted-from": {
+			"P83": 3,
+			"P40": 5,
+			"P54": 6
+		},
+		"obtained-from": [
+			"Store of Starlight recipe"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P403": {
+		"name": "Twilight Steps",
+		"idNum": "403",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "When Princess Dawn walks out of the castle, people gather around the square and began to dance.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "SS-",
+			"Elegance": "SS",
+			"Cute": "A",
+			"Pure": "A",
+			"Cool": "A+"
+		},
+		"suit": [
+			"princess-dawn"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P428": {
+		"name": "Ganghood Story",
+		"idNum": "428",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "There will be brotherhood with people. You will spot the little fox there. She's from the holy mountain that brings fortune.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS-",
+			"Cute": "A-",
+			"Pure": "SS-",
+			"Cool": "S"
+		},
+		"suit": [
+			"wine-wanderer",
+			"wine-wanderer-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P432": {
+		"name": "Maple Hunt",
+		"idNum": "432",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "With the company of the sound of soul, the beauty in red came for the deadly maple-adoring banquet.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S+",
+			"Elegance": "S-",
+			"Mature": "A+",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"banshee-momiji"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P440": {
+		"name": "Outside Cloud",
+		"idNum": "440",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "The House of Zhu is well known in Cloud Empire, but people of this House are never interested in posts of government.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "S",
+			"Mature": "SS-",
+			"Pure": "A-",
+			"Warm": "A-"
+		},
+		"suit": [
+			"fiery-phoenix"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P445": {
+		"name": "Lace Sock Band",
+		"idNum": "445",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"gallery"
+		],
+		"description": "'Timi, have you been dating your senior?' 'Yeah, sometimes...' 'Try something mature and cute next time!'",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "B",
+			"Cute": "S",
+			"Sexy": "S+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"butterfly-wings-dance"
+		],
+		"obtained-from": [
+			"Clothes shop"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P473": {
+		"name": "Double Edges",
+		"idNum": "473",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"swordsman",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"north"
+		],
+		"description": "The nun trembled, and with tearful eyes she whispered: ‘Has God forsaken me? Or is it I... that have forsaken god?'",
+		"rarity": 5,
+		"special-attributes": [
+			"Swordsman"
+		],
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "A+",
+			"Mature": "S+",
+			"Sexy": "SS-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"red-haired-asura",
+			"red-haired-asura-v1"
+		],
+		"obtained-from": [
+			"Special event",
+			"Clothes shop"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P480": {
+		"name": "Star Leap",
+		"idNum": "480",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"gallery"
+		],
+		"description": "'Will stars move?' 'On your design, they can dance and sing. They are all alive.'",
+		"rarity": 4,
+		"attributes": {
+			"Simple": "SS-",
+			"Lively": "S-",
+			"Cute": "A",
+			"Sexy": "SS-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"silhouette-of-the-star-city"
+		],
+		"obtained-from": [
+			"Dreamweaver reward"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P483": {
+		"name": "Loose Socks",
+		"idNum": "483",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"decomposable",
+			"simple",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"four_seasons"
+		],
+		"description": "Wearing comfortable loose socks and high cut shoes is one of the best styles —— Debbie wrote this in her notebook once.",
+		"rarity": 4,
+		"attributes": {
+			"Simple": "S+",
+			"Lively": "S+",
+			"Cute": "A",
+			"Pure": "A-",
+			"Cool": "A"
+		},
+		"suit": [
+			"cunning-imp"
+		],
+		"customization": [
+			"483",
+			"485"
+		],
+		"obtained-from": [
+			"Commission request suit (chapter 9)"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P485": {
+		"name": "Loose Socks · Cross",
+		"idNum": "485",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"four_seasons"
+		],
+		"description": "What will the mix of casual style and the cross look like? Try again if it's not good. A scholar needs an enquiring mind.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "S+",
+			"Cute": "SS-",
+			"Pure": "A-",
+			"Cool": "A"
+		},
+		"suit": [
+			"cunning-imp-v1"
+		],
+		"customization": [
+			"483",
+			"485"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P489": {
+		"name": "Blue Feather Golden Bell",
+		"idNum": "489",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "May the place he stopped by become prosperous, and the people he met be blessed.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S+",
+			"Elegance": "A",
+			"Mature": "A+",
+			"Sexy": "SS",
+			"Cool": "A"
+		},
+		"suit": [
+			"magnificent-peacock"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P490": {
+		"name": "Star Melody",
+		"idNum": "490",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5"
+		],
+		"description": "The fragile Tidy became sensitive.On the silent cosmos sea, she heard a negligible noise.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "SS-",
+			"Mature": "A+",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"obtained-from": [
+			"Complete suit: Cosmos Tide"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P491": {
+		"name": "Thorny Roses",
+		"idNum": "491",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "Rose is always prickly, when you are bewitched by Flower Kiss's tenderness, do not forget her thorn.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "A",
+			"Mature": "S+",
+			"Sexy": "SS-",
+			"Cool": "A+"
+		},
+		"suit": [
+			"rose-kiss"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P497": {
+		"name": "Exclusive Kneepad",
+		"idNum": "497",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"apple"
+		],
+		"description": "Having the power to steal people's secret—Curt is interesting. However, there's no need to have any secrets.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS-",
+			"Mature": "A",
+			"Sexy": "SS+",
+			"Cool": "A"
+		},
+		"suit": [
+			"crime-buster"
+		],
+		"obtained-from": [
+			"Special event",
+			"Clothes shop"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P498": {
+		"name": "Heart Guessing Game",
+		"idNum": "498",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5"
+		],
+		"description": "I wish the game will never end and sighed why there is no lock that I cannot pick? Then I can stay forever",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S+",
+			"Elegance": "A-",
+			"Mature": "S-",
+			"Sexy": "SS",
+			"Cool": "A+"
+		},
+		"obtained-from": [
+			"Complete suit: Midnight Prisoner"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P508": {
+		"name": "White Chocolate",
+		"idNum": "508",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"troupe"
+		],
+		"description": "She once longed for the slender figures on the screen, yet she's here, guarding another colorful dream",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "SS",
+			"Cute": "SS",
+			"Pure": "A-",
+			"Cool": "A+"
+		},
+		"suit": [
+			"summer-color",
+			"summer-color-v1"
+		],
+		"crafted-from": {
+			"P1": 4,
+			"P160": 3,
+			"A1093": 12
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P512": {
+		"name": "Chocolate Stocking",
+		"idNum": "512",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_3",
+			"in_suit",
+			"gallery"
+		],
+		"description": "Mela asks: 'Why do you want to be taller?' Debbie falters that she wants to be seen as grown-up and also help others.",
+		"rarity": 3,
+		"attributes": {
+			"Gorgeous": "B",
+			"Lively": "SS-",
+			"Cute": "S",
+			"Pure": "A-",
+			"Cool": "B+"
+		},
+		"suit": [
+			"rabbit-ear-sweetheart"
+		],
+		"obtained-from": [
+			"Dreamweaver reward"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P522": {
+		"name": "Town Soul Hierogram",
+		"idNum": "522",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "Demon hunter, are you a demon disguising as a human too? Do you want to devour me just like the ghosts?",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS-",
+			"Mature": "SS-",
+			"Sexy": "A",
+			"Warm": "S"
+		},
+		"suit": [
+			"nether-fire"
+		],
+		"used-to-craft": {
+			"C533": 1
+		},
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P524": {
+		"name": "Across Gully",
+		"idNum": "524",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "Anyone who leaps over the valley can marry Shamala! But it is too dangerous. No one knows who will win.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "S",
+			"Mature": "S+",
+			"Pure": "A-",
+			"Cool": "A"
+		},
+		"suit": [
+			"shamalas-love"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P525": {
+		"name": "Bone",
+		"idNum": "525",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5"
+		],
+		"description": "Adora was so slender and delicate, but she is always strong when she faces unknown fear.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "SS+",
+			"Elegance": "A",
+			"Mature": "SS-",
+			"Pure": "A",
+			"Cool": "A"
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P526": {
+		"name": "Bone",
+		"idNum": "526",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"super_top_scoring",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "The night wind was cold, and the moonlight, like a knife, gouged out my flesh. What I fear is only death.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "SS",
+			"Elegance": "SS+",
+			"Mature": "S-",
+			"Sexy": "SS-",
+			"Cool": "S"
+		},
+		"suit": [
+			"miss-bone"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P527": {
+		"name": "Flower Trace",
+		"idNum": "527",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"apple"
+		],
+		"description": "Clustered by blossom, this is the moment for her.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "SS-",
+			"Mature": "A",
+			"Sexy": "S+",
+			"Cool": "S-"
+		},
+		"suit": [
+			"prom-princess",
+			"prom-princess-v1"
+		],
+		"crafted-from": {
+			"P47": 5,
+			"P1": 5,
+			"T7": 3
+		},
+		"obtained-from": [
+			"Special event",
+			"Store of Starlight recipe"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P537": {
+		"name": "City Dream",
+		"idNum": "537",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"lilith"
+		],
+		"description": "In this city where any dream can be realized, what dream do you want to achieve here?",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "A",
+			"Cute": "A-",
+			"Pure": "SS",
+			"Cool": "A+"
+		},
+		"suit": [
+			"city-dream"
+		],
+		"obtained-from": [
+			"Clothes shop"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P539": {
+		"name": "Sweet Memory",
+		"idNum": "539",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Are you leaving now? The tea party has just begun! Will you come back?",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "SS-",
+			"Cute": "SS-",
+			"Pure": "A-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"fondant-game"
+		],
+		"crafted-from": {
+			"P1": 4,
+			"P160": 3,
+			"P47": 6
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P541": {
+		"name": "Caution Wet Floor",
+		"idNum": "541",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_3",
+			"in_suit",
+			"gallery"
+		],
+		"description": "Skateboard is cool, but be careful~",
+		"rarity": 3,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "S+",
+			"Cute": "S-",
+			"Pure": "B",
+			"Cool": "A"
+		},
+		"suit": [
+			"emma-lemon-sweets"
+		],
+		"used-to-craft": {
+			"P805": 7,
+			"P1181": 3
+		},
+		"obtained-from": [
+			"Clothes shop"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P553": {
+		"name": "Holographic Surround",
+		"idNum": "553",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"ruin"
+		],
+		"description": "Before Hemis left, she and Kaiser made a promise that they will meet again in the future and sing together",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "SS-",
+			"Cute": "A",
+			"Pure": "SS-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"nebula-echo"
+		],
+		"crafted-from": {
+			"P6": 4,
+			"B49": 3,
+			"P47": 7
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P555": {
+		"name": "Super Channel Rail",
+		"idNum": "555",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"ruin"
+		],
+		"description": "After blessing the mankind, with the chord of the nebula, Hemis continues her journey with no destination",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS-",
+			"Mature": "SS-",
+			"Sexy": "A-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"cosmos-sound"
+		],
+		"crafted-from": {
+			"P1": 4,
+			"P160": 3,
+			"P47": 7
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P560": {
+		"name": "Little Bear Socks",
+		"idNum": "560",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"gallery"
+		],
+		"description": "In a dream, some little bears in suits send the little girl a bunch of roses and invite her to join a party.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "B+",
+			"Elegance": "A-",
+			"Cute": "SS",
+			"Pure": "S",
+			"Cool": "S-"
+		},
+		"suit": [
+			"tea-time-with-bear"
+		],
+		"obtained-from": [
+			"Dreamweaver reward"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P562": {
+		"name": "A Midnight Lament",
+		"idNum": "562",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "As fangs were buried in my throat, blood dyes the ground red. The pain, however, brings me unexpected happiness.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "SS",
+			"Cute": "A-",
+			"Sexy": "SS",
+			"Warm": "A"
+		},
+		"suit": [
+			"covenant-servant"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P565": {
+		"name": "Snowflake",
+		"idNum": "565",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "She didn't know or care the so-called peace or rightness, but she might see why Lunar would protect the Cloud.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS-",
+			"Mature": "SS-",
+			"Sexy": "A",
+			"Warm": "S-"
+		},
+		"suit": [
+			"sky-snow"
+		],
+		"crafted-from": {
+			"A3171": 1,
+			"P47": 6,
+			"P67": 2
+		},
+		"used-to-craft": {
+			"S1253": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P569": {
+		"name": "Reverted Day and Night",
+		"idNum": "569",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "Evelyn has beautiful eyes, calm as Lake Bovaly and grieved as the harp music. She knows that day will finally come.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS-",
+			"Mature": "SS",
+			"Sexy": "A",
+			"Cool": "A"
+		},
+		"suit": [
+			"flickering-pistill"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P582": {
+		"name": "Sleep Talk Night",
+		"idNum": "582",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "The stars watch the girl fall asleep and occasionally hear one or two of baffling words.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "SS",
+			"Cute": "A",
+			"Pure": "SS-",
+			"Warm": "A"
+		},
+		"suit": [
+			"daydreamer"
+		],
+		"crafted-from": {
+			"P47": 5,
+			"P6": 4,
+			"P101": 4
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P590": {
+		"name": "Lingering Sound",
+		"idNum": "590",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"elegance",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"festivals"
+		],
+		"description": "Looking at the excited Rita, Snow wondered what had made herself a Christmas Messager.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "SS",
+			"Elegance": "A+",
+			"Cute": "A",
+			"Pure": "SS",
+			"Warm": "B+"
+		},
+		"suit": [
+			"snowy-night-bless"
+		],
+		"crafted-from": {
+			"P47": 6,
+			"P24": 4,
+			"P160": 3
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P596": {
+		"name": "Ribbon of Rotation",
+		"idNum": "596",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"apple"
+		],
+		"description": "She worried that if the ribbon will hinder her movement, but the team just makes it a highlight of the show.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS-",
+			"Mature": "S+",
+			"Pure": "A-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"ice-waltz"
+		],
+		"crafted-from": {
+			"P24": 5,
+			"B45": 16,
+			"T172": 14
+		},
+		"obtained-from": [
+			"Store of Starlight recipe"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P600": {
+		"name": "Unfinished Will",
+		"idNum": "600",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "Vnet saw too many trades. Some were happy, some regretted. Only Goddess of Gold is always calm.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS+",
+			"Mature": "S-",
+			"Sexy": "SS-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"golden-shadow"
+		],
+		"crafted-from": {
+			"P47": 5,
+			"P66": 2,
+			"P160": 2
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P607": {
+		"name": "Stars that can Melt Snow",
+		"idNum": "607",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Snowflakes are the only frequenters in White Forest. They stay for a while and melt in white light of stars.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "SS-",
+			"Mature": "SS-",
+			"Sexy": "A",
+			"Cool": "A"
+		},
+		"suit": [
+			"white-forest"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P612": {
+		"name": "Golden Snake Wrap",
+		"idNum": "612",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "Angelica once saved a little white snake and took it to a nearby cave where she met green snake.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "SS-",
+			"Elegance": "S-",
+			"Mature": "A+",
+			"Sexy": "S+",
+			"Cool": "S-"
+		},
+		"suit": [
+			"wavy-cloud-shadows"
+		],
+		"crafted-from": {
+			"P47": 5,
+			"P1": 5,
+			"P160": 3
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P614": {
+		"name": "Fate Cat Ring Bell",
+		"idNum": "614",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The customer lost his umbrella sighed at the sudden downpour. Lucky Meow rang the bell and the sky cleared up.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "SS-",
+			"Lively": "SS",
+			"Cute": "A-",
+			"Pure": "A",
+			"Warm": "S-"
+		},
+		"suit": [
+			"maneki-neko"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P617": {
+		"name": "Stars in Six Directions",
+		"idNum": "617",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "The earth belongs to gods. Shan lives at the boundary of heaven and earth for long, guarding the earth.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS-",
+			"Mature": "A-",
+			"Sexy": "SS",
+			"Warm": "A"
+		},
+		"suit": [
+			"firm-mountain"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P638": {
+		"name": "Pompom Leg Warmer",
+		"idNum": "638",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Bagel is a lively squirrel and Pompompurin's good friend. Bagel gives Nikki and Momo a four-leaf clover.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "A+",
+			"Cute": "SS-",
+			"Pure": "SS+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"pompompurin",
+			"pompompurin-v1"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P640": {
+		"name": "Sky Journey's Invitation",
+		"idNum": "640",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Cinnamoroll flaps his ears as he flies. 'If we fly with my big ears, we'll soon be in Miraland!'",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Lively": "S+",
+			"Cute": "SS-",
+			"Pure": "A+",
+			"Cool": "A"
+		},
+		"suit": [
+			"cinnamoroll"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P643": {
+		"name": "Flower in Mist",
+		"idNum": "643",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "There is a thin mist afloat in the morning garden. I took a deep breath of the freshness and smiled.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "S+",
+			"Lively": "SS-",
+			"Cute": "A-",
+			"Pure": "A+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"light-spring"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P657": {
+		"name": "Light Blue Seaweed",
+		"idNum": "657",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "The scene in my dreams appeared in my mind. I drifted with tide and floated sea spray. I am a free fish.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "SS+",
+			"Elegance": "S+",
+			"Mature": "SS",
+			"Sexy": "A+",
+			"Cool": "A"
+		},
+		"suit": [
+			"melody-of-whale"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P665": {
+		"name": "Death Moment",
+		"idNum": "665",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Where is her limit? She doesn't know. She's like a warrior who never stops fighting.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "A",
+			"Mature": "S",
+			"Sexy": "S+",
+			"Warm": "A"
+		},
+		"suit": [
+			"bounty-hunter"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P684": {
+		"name": "Heaven Divination",
+		"idNum": "684",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "The dance steps draw out the magic array containing the star's power. The chart of destiny unfolds.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS",
+			"Mature": "A-",
+			"Sexy": "SS-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"star-rite"
+		],
+		"crafted-from": {
+			"C132": 6,
+			"S14": 3,
+			"S242": 3
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P693": {
+		"name": "Free Soul",
+		"idNum": "693",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "At dusk, she left with the lion. She chooses to stay true to her heart and will never stop to pursue freedom.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "SS",
+			"Elegance": "A",
+			"Mature": "SS-",
+			"Sexy": "A-",
+			"Cool": "A"
+		},
+		"suit": [
+			"lion-overwatch"
+		],
+		"crafted-from": {
+			"C722": 1,
+			"P117": 9,
+			"P1": 8,
+			"P160": 4
+		},
+		"used-to-craft": {
+			"H1681": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P694": {
+		"name": "Step of Tomorrow",
+		"idNum": "694",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"super_top_scoring",
+			"in_suit",
+			"ruin"
+		],
+		"description": "'Magical Mirai must be found. It cannot end here.'",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "SS",
+			"Lively": "SS-",
+			"Cute": "A",
+			"Pure": "A-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"magical-mirai-2015"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P698": {
+		"name": "Dark Vision",
+		"idNum": "698",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"apple"
+		],
+		"description": "The temptation to kill the foe almost killed Aten's reason, but it's not time yet. She just brushed past him",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS-",
+			"Mature": "SS",
+			"Sexy": "A+",
+			"Cool": "A"
+		},
+		"suit": [
+			"feast-of-hunt"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P704": {
+		"name": "Radiant Return",
+		"idNum": "704",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "At daybreak, the stars in the sky lost color in front of her. Like the light, she dispels the darkness.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS-",
+			"Mature": "SS",
+			"Sexy": "S-",
+			"Cool": "A+"
+		},
+		"suit": [
+			"rose-oath"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P708": {
+		"name": "Lock of Sacrifice",
+		"idNum": "708",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "If you turn back. Please use your eyes to look at me, your arms to embrace me, and your mouth to summon me.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS",
+			"Mature": "S+",
+			"Pure": "S-",
+			"Warm": "A-"
+		},
+		"suit": [
+			"pragya-princess"
+		],
+		"crafted-from": {
+			"A4476": 1,
+			"P160": 6,
+			"P40": 8
+		},
+		"used-to-craft": {
+			"A4473": 1
+		},
+		"obtained-from": [
+			"Special event",
+			"Store of Starlight recipe"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P710": {
+		"name": "True or False",
+		"idNum": "710",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "When the ghost bride shows herself after sunset, her love will be flee in scream. Hahaha!",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "S+",
+			"Mature": "SS",
+			"Sexy": "A+",
+			"Warm": "S-"
+		},
+		"suit": [
+			"demons-game"
+		],
+		"crafted-from": {
+			"A4495": 1,
+			"P1": 3,
+			"P160": 3
+		},
+		"used-to-craft": {
+			"P711": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P718": {
+		"name": "Sailor's Dagger",
+		"idNum": "718",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"britain",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Different from a long blade for battle, a dagger is easy to carry and handy to cut a rope.",
+		"rarity": 5,
+		"special-attributes": [
+			"Britain"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "S+",
+			"Mature": "S-",
+			"Sexy": "SS",
+			"Warm": "S-"
+		},
+		"suit": [
+			"storm-tamer"
+		],
+		"crafted-from": {
+			"P121": 2,
+			"P160": 3
+		},
+		"used-to-craft": {
+			"P719": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P723": {
+		"name": "Invincible Way",
+		"idNum": "723",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"north"
+		],
+		"description": "The tutor said the strong have to be strong herself. Only by destroying the rotten leaves can you see the rebirth.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "B+",
+			"Elegance": "SS",
+			"Mature": "A",
+			"Sexy": "SS",
+			"Warm": "S-"
+		},
+		"suit": [
+			"war-in-winter"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P727": {
+		"name": "Spiritual Bond",
+		"idNum": "727",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"future",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"ruin"
+		],
+		"description": "The great pain and constraint gave her illusions. It's a nightmare, I will wake up soon.",
+		"rarity": 5,
+		"special-attributes": [
+			"Future"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "S+",
+			"Mature": "SS-",
+			"Sexy": "S-",
+			"Warm": "A+"
+		},
+		"suit": [
+			"scarlet-sin"
+		],
+		"crafted-from": {
+			"P24": 3,
+			"P160": 3,
+			"P157": 2
+		},
+		"used-to-craft": {
+			"A4662": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P729": {
+		"name": "Rise of Wind",
+		"idNum": "729",
+		"idChar": "P",
+		"tags": [
+			"evolvable",
+			"decomposable",
+			"simple",
+			"lively",
+			"cute",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_3"
+		],
+		"description": "Most often, she cheers people around. But she would stand out and speak like a little judge for the weak sometimes.",
+		"rarity": 3,
+		"attributes": {
+			"Simple": "S+",
+			"Lively": "B",
+			"Cute": "B+",
+			"Sexy": "S",
+			"Warm": "A"
+		},
+		"obtained-from": [
+			"Chapter V2_5-S1 Princess"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P731": {
+		"name": "Rise of Wind · Rare",
+		"idNum": "731",
+		"idChar": "P",
+		"tags": [
+			"evolvable",
+			"evolved",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_4"
+		],
+		"description": "As if she had hit the lottery. The past was gone. She was clustered by the servants and sat on the carriage home.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "B+",
+			"Lively": "SS-",
+			"Cute": "S-",
+			"Sexy": "S+",
+			"Warm": "A-"
+		},
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P733": {
+		"name": "Rise of Wind · Epic",
+		"idNum": "733",
+		"idChar": "P",
+		"tags": [
+			"evolved",
+			"customizable",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The military drum reminds her of the days on Long Street and people's care for her. It was her jianghu.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "SS-",
+			"Cute": "A-",
+			"Sexy": "SS-",
+			"Warm": "A"
+		},
+		"suit": [
+			"on-the-road"
+		],
+		"customization": [
+			"733",
+			"735"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P735": {
+		"name": "Rise of Wind · Ink",
+		"idNum": "735",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "As she passes Long Street, it's dusk. Peddlers, kids, and the smell of meal, all so familiar.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "A+",
+			"Mature": "SS-",
+			"Sexy": "SS-",
+			"Warm": "S-"
+		},
+		"suit": [
+			"on-the-road-v1"
+		],
+		"customization": [
+			"733",
+			"735"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P745": {
+		"name": "Mind Ring",
+		"idNum": "745",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"apple"
+		],
+		"description": "Earth has a completely different view from the abyss, but hurry as the same——even no time for a complete song.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Lively": "SS",
+			"Mature": "A",
+			"Sexy": "SS",
+			"Warm": "A-"
+		},
+		"suit": [
+			"backlight-chord"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P748": {
+		"name": "Clouded Star",
+		"idNum": "748",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"apple"
+		],
+		"description": "One day, the shop owner found the magic of Clara. Instead of putting more effort on design, he was taken by greed.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS-",
+			"Mature": "S-",
+			"Pure": "SS-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"boxed-dream"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P750": {
+		"name": "Golden Quicksand",
+		"idNum": "750",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"simple",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "The girl picked a white conch and put it beside her ear. The sound of waves reminded her of the past.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "SS",
+			"Elegance": "SS",
+			"Mature": "A-",
+			"Pure": "A",
+			"Cool": "A+"
+		},
+		"suit": [
+			"maidens-prayer"
+		],
+		"crafted-from": {
+			"A4791": 1,
+			"P162": 4,
+			"P121": 3,
+			"P160": 4
+		},
+		"used-to-craft": {
+			"H1796": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P762": {
+		"name": "Love for Mortal World",
+		"idNum": "762",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"chinese_classical",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "A child wounded her wings. A monk gave her water and rice. Unpredictable hearts, the noisy city, she remembers all.",
+		"rarity": 5,
+		"special-attributes": [
+			"Chinese Classical"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "S-",
+			"Cute": "B+",
+			"Pure": "S-",
+			"Warm": "A-"
+		},
+		"suit": [
+			"world-watcher"
+		],
+		"crafted-from": {
+			"P47": 4,
+			"P66": 5,
+			"P160": 3
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P767": {
+		"name": "Formless Yoke",
+		"idNum": "767",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"simple",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "How does it feel when you lose everything? Hatred turned into a sleep talk in the dream, the sinner will pay.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "S",
+			"Elegance": "A-",
+			"Mature": "A",
+			"Sexy": "S",
+			"Cool": "A"
+		},
+		"suit": [
+			"red-nightmare"
+		],
+		"crafted-from": {
+			"A4921": 1,
+			"P47": 8,
+			"P66": 3,
+			"S132": 3
+		},
+		"used-to-craft": {
+			"A4918": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P770": {
+		"name": "Piggy Socks",
+		"idNum": "770",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"modern_china",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"festivals"
+		],
+		"description": "Bun Lady, you also have pig prints on your socks. Do you like pigs?' 'Eh, kinda, but don't tell others!'",
+		"rarity": 5,
+		"special-attributes": [
+			"Modern China"
+		],
+		"attributes": {
+			"Gorgeous": "A+",
+			"Lively": "SS-",
+			"Cute": "S",
+			"Pure": "B",
+			"Cool": "A+"
+		},
+		"suit": [
+			"piggy-bun-shop",
+			"piggy-bun-shop-v1"
+		],
+		"obtained-from": [
+			"Clothes shop"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P774": {
+		"name": "Gone with Moon",
+		"idNum": "774",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "Lunar invited Nikki to the dance at the Festival. Moonlit City night wind blew Lunar's robe. She was like a fairy.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "S",
+			"Mature": "S",
+			"Pure": "A",
+			"Warm": "A-"
+		},
+		"suit": [
+			"world-in-dream"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P777": {
+		"name": "Wasteland Journey",
+		"idNum": "777",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"simple",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "The wilderness brings freshness to the new guests. The bonfire warms the desert and lit up the girls’ smiles.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "S-",
+			"Elegance": "A",
+			"Mature": "A-",
+			"Sexy": "S",
+			"Cool": "A-"
+		},
+		"suit": [
+			"flowers-in-the-wildness"
+		],
+		"customization": [
+			"777",
+			"778"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P778": {
+		"name": "Wilderness Road",
+		"idNum": "778",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"simple",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "She once only knew a little of divination, now she is a good seer. Every meeting with her is a surprise.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "S",
+			"Elegance": "A-",
+			"Mature": "A-",
+			"Sexy": "S-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"flowers-in-the-wildness-v1"
+		],
+		"customization": [
+			"777",
+			"778"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P780": {
+		"name": "Wind Fire Wheels",
+		"idNum": "780",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The Wind Fire Wheels rotate like the way the taichi moves. They are his loyal mount when he chases the wind and sun",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "S+",
+			"Mature": "A+",
+			"Sexy": "S+",
+			"Cool": "S-"
+		},
+		"suit": [
+			"lotus-prince"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P783": {
+		"name": "High Speed Gyro",
+		"idNum": "783",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"future",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"ruin"
+		],
+		"description": "The rotating gyro has a tracking feature. Once hit, you will be blown into space. What a sad way to say goodbye.",
+		"rarity": 5,
+		"special-attributes": [
+			"Future"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "SS",
+			"Cute": "SS",
+			"Sexy": "A-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"true-shot"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P786": {
+		"name": "Rose Dream",
+		"idNum": "786",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "She walks in the quiet passage, but suddenly the figure disappeared like mist under sunshine.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "S-",
+			"Mature": "S+",
+			"Sexy": "S+",
+			"Warm": "S-"
+		},
+		"suit": [
+			"rose-palace"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P794": {
+		"name": "Fake News",
+		"idNum": "794",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"festivals"
+		],
+		"description": "Word goes that the gift box is predictable as puppets will come the night before to make the mark!",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "A-",
+			"Cute": "SS-",
+			"Sexy": "SS",
+			"Warm": "S-"
+		},
+		"suit": [
+			"cerises-gift"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P809": {
+		"name": "Time Collected",
+		"idNum": "809",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "The high nobles would always enjoy a song after dinner. When Lyre was played, time was saved.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "A-",
+			"Mature": "SS-",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"lyrical-lyre"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P833": {
+		"name": "Desert Jewel",
+		"idNum": "833",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "She rides a camel in the desert and never loses her direction in the sandstorm. She believes the oasis is ahead.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "SS-",
+			"Elegance": "A",
+			"Mature": "A+",
+			"Sexy": "SS-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"desert-jewel"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P853": {
+		"name": "Follow the Tempo",
+		"idNum": "853",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"simple",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"troupe"
+		],
+		"description": "Auggie dislikes the violinist in the next door because her dancing paces are often disrupted by the violin sound.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "S+",
+			"Elegance": "S+",
+			"Cute": "S-",
+			"Pure": "A",
+			"Cool": "S-"
+		},
+		"suit": [
+			"pure-sonata"
+		],
+		"crafted-from": {
+			"P854": 1,
+			"P47": 12,
+			"P160": 3
+		},
+		"used-to-craft": {
+			"A5840": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P867": {
+		"name": "Dawn Cloud",
+		"idNum": "867",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "Later, Mist met a Painter. They had a conversation all over the night like old friends.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "SS-",
+			"Elegance": "SS-",
+			"Mature": "A",
+			"Sexy": "S-",
+			"Warm": "A-"
+		},
+		"suit": [
+			"ink-painting",
+			"ink-painting-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P869": {
+		"name": "Violet Ballade",
+		"idNum": "869",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"lolita",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "When Dreamland Fairy is busy with weaving dreams, Star River casts shimmering lights to the earth.",
+		"rarity": 5,
+		"special-attributes": [
+			"Lolita"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS",
+			"Cute": "SS-",
+			"Pure": "A-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"starry-fantasy"
+		],
+		"crafted-from": {
+			"A6031": 1,
+			"P47": 5,
+			"S14": 4,
+			"S132": 3
+		},
+		"used-to-craft": {
+			"A6035": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P877": {
+		"name": "Dance to Light",
+		"idNum": "877",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"apple"
+		],
+		"description": "She dances to pursue the light. Unbound by any stale values, she is the princess in the lover's eyes.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS",
+			"Cute": "A-",
+			"Pure": "SS-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"rosy-waltz"
+		],
+		"crafted-from": {
+			"A6110": 1,
+			"A2208": 7,
+			"T47": 3,
+			"P40": 5
+		},
+		"used-to-craft": {
+			"A6109": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P878": {
+		"name": "Laughter Whisper",
+		"idNum": "878",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "In the palace, there is an open secret. Whenever someone talks about that cheerful mayor, they would smile.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS-",
+			"Mature": "A-",
+			"Sexy": "SS",
+			"Cool": "A"
+		},
+		"suit": [
+			"prayer-dancer"
+		],
+		"crafted-from": {
+			"A6117": 1,
+			"A2346": 9,
+			"P1": 3,
+			"P101": 5
+		},
+		"used-to-craft": {
+			"A6116": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P881": {
+		"name": "Gentle Comfort",
+		"idNum": "881",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"apple"
+		],
+		"description": "Shiny jumps into her arms with its tail brushing her face, seeming to comfort her that everything's gonna be fine.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "SS-",
+			"Cute": "B",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"black-cat-dream"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P884": {
+		"name": "Sealed Maze",
+		"idNum": "884",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gothic",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"festivals"
+		],
+		"description": "Hildr laughs in the dark, 'Welcome to Halloween Maze! Find the exit or you shall be trapped here forever.'",
+		"rarity": 5,
+		"special-attributes": [
+			"Gothic"
+		],
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "B+",
+			"Cute": "SS",
+			"Sexy": "SS-",
+			"Cool": "A+"
+		},
+		"suit": [
+			"haunted-heart"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P887": {
+		"name": "Hold Stalk",
+		"idNum": "887",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"apple"
+		],
+		"description": "Hold her slender hands and jade-like arms, stop her leaving steps. Please stay, you are so beautiful.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "SS",
+			"Elegance": "A+",
+			"Mature": "A-",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"night-lily",
+			"night-lily-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P892": {
+		"name": "Cool Midsummer",
+		"idNum": "892",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"simple",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "Summer comes with a big watermelon. Fu Su takes out his chopper. 'Wait, you are going to use that thing?'",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "S",
+			"Elegance": "S-",
+			"Mature": "A-",
+			"Sexy": "B",
+			"Cool": "A-"
+		},
+		"suit": [
+			"fresh-bamboo",
+			"fresh-bamboo-v1"
+		],
+		"crafted-from": {
+			"A6281": 1,
+			"P47": 5,
+			"P6": 4
+		},
+		"used-to-craft": {
+			"A6280": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P893": {
+		"name": "Dream Web",
+		"idNum": "893",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Bloodshot eyes are the symptom of evil corruption. The girl fights to not get captured by the dream beast.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "B+",
+			"Lively": "A",
+			"Cute": "SS",
+			"Sexy": "SS",
+			"Warm": "A+"
+		},
+		"suit": [
+			"dream-defender"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P897": {
+		"name": "Candy Donut",
+		"idNum": "897",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"lolita",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"festivals"
+		],
+		"description": "Ace brings handmade donuts. In her heart, Nikki has a sweet and curing power that saves her from the nightmare.",
+		"rarity": 5,
+		"special-attributes": [
+			"Lolita"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "SS-",
+			"Cute": "SS-",
+			"Pure": "S-",
+			"Warm": "S-"
+		},
+		"suit": [
+			"sparkling-cupcake"
+		],
+		"obtained-from": [
+			"Clothes shop"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P910": {
+		"name": "Wreaths Dumpling Stockings",
+		"idNum": "910",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The beautiful lotus necklet on her hand-made socks matched perfectly with the scented dumplings on the stove.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "S",
+			"Cute": "A",
+			"Pure": "S+",
+			"Cool": "A"
+		},
+		"suit": [
+			"lotus-dumpling-shop",
+			"lotus-dumpling-shop-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P913": {
+		"name": "Musical Golden Bell",
+		"idNum": "913",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"festivals"
+		],
+		"description": "'You're not Santa Clause. You are a beautiful girl.' An ailing girl found Tya and smiled at her.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "SS",
+			"Cute": "SS-",
+			"Pure": "A+",
+			"Cool": "A"
+		},
+		"suit": [
+			"christmas-fantasy"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P918": {
+		"name": "Lovers' Heart Knot",
+		"idNum": "918",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"troupe"
+		],
+		"description": "Roses bloomed in May, and the affectionate whispers of love lingered in the dreams of young boys and girls.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "A-",
+			"Mature": "SS-",
+			"Sexy": "SS",
+			"Warm": "S-"
+		},
+		"suit": [
+			"december-march"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P921": {
+		"name": "Signal Current",
+		"idNum": "921",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"future",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"ruin"
+		],
+		"description": "At first, Eva showed nothing abnormal. Like other droids, she performs tasks exactly as programmed.",
+		"rarity": 5,
+		"special-attributes": [
+			"Future"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "A-",
+			"Mature": "SS",
+			"Sexy": "SS",
+			"Cool": "A"
+		},
+		"suit": [
+			"the-awakened"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P932": {
+		"name": "Uphold Justice",
+		"idNum": "932",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Never failing was her professional requirements, her commitment to her clients, and her insistence on the truth.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S",
+			"Elegance": "SS-",
+			"Cute": "S+",
+			"Pure": "A+",
+			"Warm": "A-"
+		},
+		"suit": [
+			"ace-attorney"
+		],
+		"customization": [
+			"932",
+			"934"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P934": {
+		"name": "Prosecution of Justice",
+		"idNum": "934",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "The dwarf hoped to get compensation and to justify Rudfia who received malicious vilifications.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS-",
+			"Cute": "S-",
+			"Pure": "SS",
+			"Warm": "A-"
+		},
+		"suit": [
+			"ace-attorney-v1"
+		],
+		"customization": [
+			"932",
+			"934"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P940": {
+		"name": "Pearly Night Sky",
+		"idNum": "940",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"simple",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"apple"
+		],
+		"description": "He believed that as long as human beings found and understood these laws, they could be as powerful as the elves.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "S",
+			"Elegance": "S",
+			"Mature": "A-",
+			"Sexy": "B",
+			"Cool": "A-"
+		},
+		"suit": [
+			"star-secret"
+		],
+		"customization": [
+			"940",
+			"942"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P942": {
+		"name": "Dust of Universe",
+		"idNum": "942",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"simple",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"apple"
+		],
+		"description": "At first, the crowd was silent, then burst out into sharp jeers and hiss. His crazy views became their laughingstock.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "S",
+			"Elegance": "S",
+			"Mature": "A-",
+			"Sexy": "A-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"star-secret-v1"
+		],
+		"customization": [
+			"940",
+			"942"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P944": {
+		"name": "Snow Corridor",
+		"idNum": "944",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "It was never a useless struggle. Every struggle here made people see another possibility of life in the dark years.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS",
+			"Mature": "SS",
+			"Sexy": "A-",
+			"Warm": "A"
+		},
+		"suit": [
+			"frozen-crown"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P945": {
+		"name": "Tear of Sinking",
+		"idNum": "945",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "The news given by League Tyr was not completely true, only the pain of the sequelae was true.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "A+",
+			"Mature": "S+",
+			"Sexy": "SS",
+			"Cool": "A-"
+		},
+		"suit": [
+			"alluring-abyss"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P953": {
+		"name": "Clear Heart",
+		"idNum": "953",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Though still green, Eivira is willing to chant every day with her wand to heal the prince.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "B+",
+			"Elegance": "S+",
+			"Mature": "SS",
+			"Pure": "A-",
+			"Cool": "A+"
+		},
+		"suit": [
+			"ode-of-dawn",
+			"ode-of-dawn-v1"
+		],
+		"crafted-from": {
+			"A6713": 1,
+			"P24": 4,
+			"B45": 3,
+			"P105": 5
+		},
+		"used-to-craft": {
+			"A6715": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P956": {
+		"name": "Ink Soul",
+		"idNum": "956",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "Nobody knows her past, maybe when the first sentient soul crossed the Styx, she had been wielding her chains there.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "SS-",
+			"Mature": "A",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"soul-soother"
+		],
+		"crafted-from": {
+			"A6771": 1,
+			"P47": 5,
+			"P6": 3,
+			"S25": 6
+		},
+		"used-to-craft": {
+			"A6755": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P972": {
+		"name": "Distant Target",
+		"idNum": "972",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"decomposable",
+			"simple",
+			"lively",
+			"cute",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"apple"
+		],
+		"description": "She decided to become an adventurer after reading a natural history picture book at eight.",
+		"rarity": 4,
+		"attributes": {
+			"Simple": "A",
+			"Lively": "A",
+			"Cute": "S",
+			"Sexy": "SS-",
+			"Warm": "A"
+		},
+		"suit": [
+			"longwalker"
+		],
+		"customization": [
+			"972",
+			"974"
+		],
+		"crafted-from": {
+			"P801": 6,
+			"P737": 6,
+			"P1": 15
+		},
+		"obtained-from": [
+			"Store of Starlight recipe"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P974": {
+		"name": "Road of Striving",
+		"idNum": "974",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"simple",
+			"lively",
+			"cute",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"apple"
+		],
+		"description": "Those who once questioned her now began to admire her. She advanced bravely ahead, towards the unknown.",
+		"rarity": 4,
+		"attributes": {
+			"Simple": "S-",
+			"Lively": "B+",
+			"Cute": "S+",
+			"Sexy": "SS-",
+			"Warm": "A-"
+		},
+		"suit": [
+			"longwalker-v1"
+		],
+		"customization": [
+			"972",
+			"974"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P985": {
+		"name": "Roaming Star Ocean",
+		"idNum": "985",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"design_material",
+			"future",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_6",
+			"in_suit",
+			"classic"
+		],
+		"description": "She was the gorgeous glow and the all-knowing guide; eternal like the stars, leading people to their ideal future.",
+		"rarity": 6,
+		"special-attributes": [
+			"Future"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS-",
+			"Mature": "SS-",
+			"Sexy": "A+",
+			"Cool": "A"
+		},
+		"suit": [
+			"the-origin-of-shimmer"
+		],
+		"customization": [
+			"985",
+			"986"
+		],
+		"used-to-craft": {
+			"A6924": 1
+		},
+		"obtained-from": [
+			"Achievement: The Road to Master Stylist · Vol.2 · Princess Stage 20",
+			"Complete suit: The Origin of Shimmer"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P986": {
+		"name": "Meteor Trajectory",
+		"idNum": "986",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"future",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_6",
+			"top_scoring",
+			"in_suit",
+			"classic"
+		],
+		"description": "The Shimmer was but one of the AIs in the distant past. No one knows why she became the Skyray over the island.",
+		"rarity": 6,
+		"special-attributes": [
+			"Future"
+		],
+		"attributes": {
+			"Gorgeous": "S+",
+			"Elegance": "SS",
+			"Mature": "SS",
+			"Sexy": "A",
+			"Cool": "A"
+		},
+		"suit": [
+			"the-origin-of-shimmer-v1"
+		],
+		"customization": [
+			"985",
+			"986"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P988": {
+		"name": "Travel Trace",
+		"idNum": "988",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"european",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "It's said there is a machine witch in this city. She flies with metal wings and her house is a machine castle.",
+		"rarity": 5,
+		"special-attributes": [
+			"European"
+		],
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "SS-",
+			"Mature": "A-",
+			"Sexy": "SS-",
+			"Warm": "S-"
+		},
+		"suit": [
+			"mechanician-poet",
+			"mechanician-poet-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P996": {
+		"name": "Mini Adventure",
+		"idNum": "996",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"lolita",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "As the match starts, Kylier follows the players on the airship. The music changes to the tempo of the race.",
+		"rarity": 5,
+		"special-attributes": [
+			"Lolita"
+		],
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "SS-",
+			"Cute": "S+",
+			"Pure": "S-",
+			"Cool": "A"
+		},
+		"suit": [
+			"symphony-star"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1010": {
+		"name": "Heart of Dancer",
+		"idNum": "1010",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "Music was on and so was the light, just like the moon back then. In the applause, Sonia closed her eyes gently.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "A",
+			"Mature": "SS-",
+			"Sexy": "SS",
+			"Warm": "A-"
+		},
+		"suit": [
+			"gilt-dance"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1013": {
+		"name": "Fantastic Journey",
+		"idNum": "1013",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"lolita",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "At the deepest bottom, they were separated by a dark vortex and Dolly found herself in a cave after waking up.",
+		"rarity": 5,
+		"special-attributes": [
+			"Lolita"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "S+",
+			"Cute": "S+",
+			"Pure": "S-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"whales-song"
+		],
+		"crafted-from": {
+			"M448": 1,
+			"S142": 10,
+			"S172": 4,
+			"P160": 4
+		},
+		"used-to-craft": {
+			"A7160": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1032": {
+		"name": "Wormwood and Cattail",
+		"idNum": "1032",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"festivals"
+		],
+		"description": "The girl stopped drawing to observe her sketch. Resting her chin in her hand, she thought it lacked something.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "S-",
+			"Lively": "A-",
+			"Cute": "SS-",
+			"Pure": "S",
+			"Cool": "A-"
+		},
+		"suit": [
+			"musical-sound",
+			"musical-sound-v1"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1034": {
+		"name": "Lucky Asylum",
+		"idNum": "1034",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"kimono",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "I will cook delicious food everyone enjoys! Jill quietly made her wish to the festival fireworks.",
+		"rarity": 5,
+		"special-attributes": [
+			"Kimono"
+		],
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "SS",
+			"Cute": "SS-",
+			"Pure": "S-",
+			"Warm": "B+"
+		},
+		"suit": [
+			"tasty-fair"
+		],
+		"crafted-from": {
+			"A7291": 1,
+			"S142": 5,
+			"P6": 3,
+			"A404": 3
+		},
+		"used-to-craft": {
+			"A7287": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1036": {
+		"name": "Magical Grace",
+		"idNum": "1036",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "People fall for her songs and beauty. The nights with her on the stage are always crowded with viewers.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS",
+			"Mature": "S+",
+			"Sexy": "A+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"singing-swallow"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1041": {
+		"name": "See and Feel",
+		"idNum": "1041",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"north"
+		],
+		"description": "She writes down everything in the diary. Special news, incidents in work, it's like the footprints of her life.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Lively": "SS-",
+			"Cute": "A+",
+			"Sexy": "SS-",
+			"Warm": "A"
+		},
+		"suit": [
+			"glacier-treader"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1043": {
+		"name": "Return to Nature",
+		"idNum": "1043",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "She never likes crowded tourist attractions. Only the wild and pure places can make her truly relaxed.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS",
+			"Cute": "A-",
+			"Sexy": "SS",
+			"Cool": "A"
+		},
+		"suit": [
+			"coconut-island"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1045": {
+		"name": "Dyed Ripples",
+		"idNum": "1045",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "Lorelei had magic power to calm everything down. Whenever she sang melodies, whirlpools would turn gentle.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS-",
+			"Mature": "A",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"mermaids-music"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1054": {
+		"name": "Billow Guardian",
+		"idNum": "1054",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "Trees warned Undine she wouldn’t be protected by goddess if she left, but her curiosity overwhelmed everything.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "S+",
+			"Cute": "A+",
+			"Pure": "SS",
+			"Cool": "A-"
+		},
+		"suit": [
+			"azure-adventure"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1058": {
+		"name": "Dark Cloud Snow",
+		"idNum": "1058",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"lively",
+			"cute",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The villagers around pray for a savior to show up and dispatch the evil.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "A+",
+			"Lively": "S+",
+			"Cute": "S-",
+			"Sexy": "SS-",
+			"Warm": "A"
+		},
+		"suit": [
+			"peach-prose"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1060": {
+		"name": "Healing Music",
+		"idNum": "1060",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"apple"
+		],
+		"description": "They rehearse every day after school. The music room witnessed their hard work.",
+		"rarity": 4,
+		"attributes": {
+			"Simple": "A",
+			"Lively": "S-",
+			"Cute": "B",
+			"Pure": "S",
+			"Cool": "B"
+		},
+		"suit": [
+			"shining-youth"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1069": {
+		"name": "Ancient Covenant",
+		"idNum": "1069",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The special fox mist starts spreading. After a clear clink of bells, he appears.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS-",
+			"Mature": "SS",
+			"Sexy": "A-",
+			"Warm": "A-"
+		},
+		"suit": [
+			"white-fox"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1072": {
+		"name": "Imprint of Prison",
+		"idNum": "1072",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "She gives up her freedom for the good look she dreamed of. The cage contracts but she is too busy admiring herself",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS-",
+			"Mature": "A-",
+			"Sexy": "SS-",
+			"Cool": "A+"
+		},
+		"suit": [
+			"demons-doll"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1074": {
+		"name": "Lost in Dance",
+		"idNum": "1074",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"lilith"
+		],
+		"description": "In the evening, the little nurse gets up to have a morning exercise, then she finds a fainted young man by the road.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "S+",
+			"Cute": "A",
+			"Sexy": "SS-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"peachy-demon"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1076": {
+		"name": "Pure Black Challenge",
+		"idNum": "1076",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"apple"
+		],
+		"description": "The kitty blinked in the bag. ‘Orange, guess if Grandma left me shrimp dumplings?’ Orange responded with a meow.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "A",
+			"Cute": "S",
+			"Sexy": "S+",
+			"Warm": "A"
+		},
+		"suit": [
+			"flaming-tiger",
+			"flaming-tiger-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1096": {
+		"name": "Sharp Crack",
+		"idNum": "1096",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"simple",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "The book attic hasn’t been visited for years. She leaves through an ancient book, with dust floating in sunlight.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "A-",
+			"Elegance": "SS-",
+			"Mature": "S-",
+			"Sexy": "A-",
+			"Warm": "C+"
+		},
+		"suit": [
+			"imprint-of-time",
+			"imprint-of-time-v1"
+		],
+		"crafted-from": {
+			"P105": 8,
+			"P160": 9
+		},
+		"used-to-craft": {
+			"P1097": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1098": {
+		"name": "Flower Peak and Pine",
+		"idNum": "1098",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"happiness"
+		],
+		"description": "Sometimes she wakes up from dreams and sees bluebird silhouette. She wants to leave everything to the will of God.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "S+",
+			"Mature": "SS-",
+			"Sexy": "A",
+			"Warm": "S-"
+		},
+		"suit": [
+			"destiny-of-begonia"
+		],
+		"crafted-from": {
+			"T931": 1,
+			"P47": 7,
+			"P24": 3,
+			"P105": 5
+		},
+		"used-to-craft": {
+			"A7836": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1099": {
+		"name": "Warm Scent",
+		"idNum": "1099",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"apple"
+		],
+		"description": "They never met but both think their countries have been at peace for so long that are unprepared for adversities.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "S+",
+			"Mature": "SS",
+			"Sexy": "A+",
+			"Cool": "A"
+		},
+		"suit": [
+			"sakura-sky"
+		],
+		"crafted-from": {
+			"A7797": 1,
+			"P47": 7,
+			"P1": 4,
+			"A163": 5
+		},
+		"used-to-craft": {
+			"A7801": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1101": {
+		"name": "Lost Moon Words",
+		"idNum": "1101",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Lost time is like sand falling between fingers. Children used to sleep with fairy tales now no longer need them.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "SS",
+			"Elegance": "A",
+			"Cute": "A",
+			"Pure": "SS-",
+			"Warm": "A"
+		},
+		"suit": [
+			"fairy-tale-of-star-and-moon"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1103": {
+		"name": "Awakening in Warmth",
+		"idNum": "1103",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"north"
+		],
+		"description": "Louie's bluebird with small wings and low chirping sound, but one day it will be fully-fledged and fly to the sky.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "A-",
+			"Mature": "SS",
+			"Sexy": "S+",
+			"Warm": "S-"
+		},
+		"suit": [
+			"dreams-in-a-dark-night"
+		],
+		"crafted-from": {
+			"A7828": 1,
+			"P47": 3,
+			"D44": 3,
+			"P157": 2
+		},
+		"used-to-craft": {
+			"A7834": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1126": {
+		"name": "Happy Premonitions",
+		"idNum": "1126",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Momo happily puts the same kind of leg warmers that Cogimyun wears around their neck. 'It suits Momo...'",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "A-",
+			"Cute": "SS-",
+			"Pure": "SS",
+			"Cool": "A-"
+		},
+		"suit": [
+			"cogimyun",
+			"cogimyun-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1134": {
+		"name": "Whisper of Soul",
+		"idNum": "1134",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "The unconscious body can only go with the flow, and keep falling until reach the empty abyss. All around is quiet.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "S+",
+			"Cute": "A-",
+			"Pure": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"moonrise-by-the-sea"
+		],
+		"customization": [
+			"1134",
+			"1135",
+			"1136"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1135": {
+		"name": "Silence on the Other Side",
+		"idNum": "1135",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "The call from afar is heard, and it echoes through the ripples of the sea. It’s telling the innermost feelings.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS-",
+			"Cute": "A-",
+			"Pure": "S+",
+			"Cool": "B+"
+		},
+		"suit": [
+			"moonrise-by-the-sea-v1"
+		],
+		"customization": [
+			"1134",
+			"1135",
+			"1136"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1136": {
+		"name": "Heartfelt Release",
+		"idNum": "1136",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "On a sunny day, she wakes from a dream and feels the sea water flowing past her, which unties the knot in her heart.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "SS-",
+			"Cute": "A",
+			"Pure": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"moonrise-by-the-sea-v2"
+		],
+		"customization": [
+			"1134",
+			"1135",
+			"1136"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1143": {
+		"name": "Vibrant Rainbow",
+		"idNum": "1143",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "The transparent rabbit ghosts take the shape of the bubbles, reflecting the colors of the sun and making the castle colorful.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "SS",
+			"Cute": "A",
+			"Pure": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"fantastic-bubble-bunny"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1146": {
+		"name": "Pink Bubble Gauze",
+		"idNum": "1146",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Moly often patrols on her familiar Sheep Tea under the night sky to see if there is any condition.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "A",
+			"Cute": "SS",
+			"Pure": "SS",
+			"Warm": "A"
+		},
+		"suit": [
+			"witch-moly"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1176": {
+		"name": "Listen to Forest",
+		"idNum": "1176",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "The breeze rustles around the forest, stirring the trees and flowers, and the long hair of the elves.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S",
+			"Elegance": "SS",
+			"Mature": "SS-",
+			"Pure": "A-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"forest-night-fireflies"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1178": {
+		"name": "Pursing Tomorrow",
+		"idNum": "1178",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "A vivid wind surrounds her, invisible and formless, like the inscrutable future with a myriad of possibilities.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "A+",
+			"Mature": "SS-",
+			"Sexy": "SS",
+			"Warm": "A"
+		},
+		"suit": [
+			"ruling-by-the-moon"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1180": {
+		"name": "Carved Cage",
+		"idNum": "1180",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The glitzy facade of wealth dissipates like smoke, and luxury is no more than a delicate prison of the mind.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS",
+			"Mature": "A-",
+			"Sexy": "SS-",
+			"Warm": "A"
+		},
+		"suit": [
+			"returned-swallows"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1188": {
+		"name": "Rocking Down Stars",
+		"idNum": "1188",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "One day, a young man from a manor near the town comes to fix his clock. He smells like roses.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "A-",
+			"Mature": "SS",
+			"Sexy": "SS",
+			"Cool": "A"
+		},
+		"suit": [
+			"forever-blooming-flowers"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1298": {
+		"name": "Laws of the Universe",
+		"idNum": "1298",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The boy catches a late spring cold and has a fever for days. A spiritualist indicates a haunting and wants to help.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "S+",
+			"Mature": "S-",
+			"Sexy": "S+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"road-of-justice"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1299": {
+		"name": "Tip Toe",
+		"idNum": "1299",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Please give me a bottle of diet sparkling water and a piece of multilayer cake... The customer looks up only to find out that the waitress is gone.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "S+",
+			"Cute": "SS",
+			"Pure": "A",
+			"Warm": "S-"
+		},
+		"suit": [
+			"variety-civet-cat",
+			"variety-civet-cat-v3"
+		],
+		"customization": [
+			"1299",
+			"1301",
+			"1303"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1301": {
+		"name": "Lazy and Free",
+		"idNum": "1301",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "A cup of afternoon coffee and sunbath by the window heals all the tireness left behind by Berry.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "SS",
+			"Cute": "SS-",
+			"Pure": "A-",
+			"Warm": "A+"
+		},
+		"suit": [
+			"variety-civet-cat-v1"
+		],
+		"customization": [
+			"1299",
+			"1301",
+			"1303"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1303": {
+		"name": "Traceless Dance Move",
+		"idNum": "1303",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Surfing online is what Coconut does best. She can hack into the most secure systems and leave without a trace.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "SS",
+			"Cute": "SS-",
+			"Pure": "A-",
+			"Warm": "A"
+		},
+		"suit": [
+			"variety-civet-cat-v2"
+		],
+		"customization": [
+			"1299",
+			"1301",
+			"1303"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1309": {
+		"name": "Starsea Wonderland",
+		"idNum": "1309",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"lilith"
+		],
+		"description": "What flavor of ice cream should she eat? She frowns.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "SS-",
+			"Cute": "S+",
+			"Pure": "A",
+			"Cool": "A+"
+		},
+		"suit": [
+			"stars-in-night"
+		],
+		"crafted-from": {
+			"P160": 5,
+			"A404": 4,
+			"A410": 4
+		},
+		"obtained-from": [
+			"Store of Starlight recipe"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1314": {
+		"name": "Early Summer smell",
+		"idNum": "1314",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "Kaoru is attracted by the prize—the qualification to light fireworks. She stares at the topic and thinks.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS-",
+			"Cute": "A",
+			"Pure": "SS-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"summer-night-lavender"
+		],
+		"crafted-from": {
+			"A9121": 1,
+			"P47": 7,
+			"P24": 2,
+			"P160": 3
+		},
+		"used-to-craft": {
+			"A9120": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1315": {
+		"name": "Glowing Stars & Moon",
+		"idNum": "1315",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"museum"
+		],
+		"description": "The temple of the sun goddess stood there. When the sun rises, people are grateful. It is the source of all lives.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "S-",
+			"Mature": "SS-",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"protection-of-faith-ursa"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1328": {
+		"name": "Increasing Motivation",
+		"idNum": "1328",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"future",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "Players who beat me in the game will get the race suit I designed!' This reward has attracted numerous people.",
+		"rarity": 5,
+		"special-attributes": [
+			"Future"
+		],
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "SS-",
+			"Cute": "A-",
+			"Sexy": "SS",
+			"Cool": "A"
+		},
+		"suit": [
+			"rapid-star-trip"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1335": {
+		"name": "Blue Mirror",
+		"idNum": "1335",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Mustard's favorite game is hide and seek among algae and coral reefs where she can hide perfectly among jellyfish.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "S+",
+			"Cute": "SS-",
+			"Pure": "A",
+			"Cool": "S-"
+		},
+		"suit": [
+			"poem-of-wave"
+		],
+		"crafted-from": {
+			"P1336": 1,
+			"P1": 3,
+			"B49": 3
+		},
+		"used-to-craft": {
+			"A9324": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1339": {
+		"name": "Flicking Cat Tail",
+		"idNum": "1339",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"decomposable",
+			"pop",
+			"sports",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_3",
+			"in_suit",
+			"gallery"
+		],
+		"description": "Something touched your legs? Definitely not a ghost. Maybe it's the tail of a silent cat.",
+		"rarity": 3,
+		"special-attributes": [
+			"POP",
+			"Sports"
+		],
+		"attributes": {
+			"Gorgeous": "B-",
+			"Lively": "A-",
+			"Cute": "S+",
+			"Sexy": "S",
+			"Cool": "A"
+		},
+		"suit": [
+			"sweet-kitty-love-hint"
+		],
+		"customization": [
+			"1339",
+			"1341",
+			"1343",
+			"1345"
+		],
+		"obtained-from": [
+			"Chapter V2_14-6 Maiden"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1341": {
+		"name": "Flicking Cat Tail · Purple",
+		"idNum": "1341",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"pop",
+			"sports",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_3",
+			"in_suit",
+			"gallery"
+		],
+		"description": "Even when we're holding our tails and falling asleep, we know where you are. Smart cats don't miss anything.",
+		"rarity": 3,
+		"special-attributes": [
+			"POP",
+			"Sports"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "B",
+			"Cute": "S+",
+			"Sexy": "S",
+			"Cool": "A-"
+		},
+		"suit": [
+			"sweet-kitty-love-hint-v1"
+		],
+		"customization": [
+			"1339",
+			"1341",
+			"1343",
+			"1345"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1343": {
+		"name": "Flicking Cat Tail · Blue",
+		"idNum": "1343",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"pop",
+			"sports",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_3",
+			"in_suit",
+			"gallery"
+		],
+		"description": "Don't touch my tail when I'm not happy! Oh, you're sad? Well, I guess you can touch my tail, then.",
+		"rarity": 3,
+		"special-attributes": [
+			"POP",
+			"Sports"
+		],
+		"attributes": {
+			"Gorgeous": "B+",
+			"Lively": "A",
+			"Cute": "S+",
+			"Sexy": "S",
+			"Cool": "B"
+		},
+		"suit": [
+			"sweet-kitty-love-hint-v2"
+		],
+		"customization": [
+			"1339",
+			"1341",
+			"1343",
+			"1345"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1345": {
+		"name": "Flicking Cat Tail · Brown",
+		"idNum": "1345",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"pop",
+			"sports",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_3",
+			"in_suit",
+			"gallery"
+		],
+		"description": "The longing for you is as unpredictable as the way our tails wag.",
+		"rarity": 3,
+		"special-attributes": [
+			"POP",
+			"Sports"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "B",
+			"Cute": "S",
+			"Sexy": "S+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"sweet-kitty-love-hint-v3"
+		],
+		"customization": [
+			"1339",
+			"1341",
+			"1343",
+			"1345"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1368": {
+		"name": "Dark Balance",
+		"idNum": "1368",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "When rules no longer apply to this chaotic world, Ally uses the scale in her mind to deliver justice to everyone.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "A-",
+			"Mature": "SS",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"red-shadow-ranger"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1369": {
+		"name": "Treasure Hunt",
+		"idNum": "1369",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Treasures are like pearls, and the collection of the rich are like rare islands. Renee cannot wait to them find out.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS-",
+			"Mature": "SS-",
+			"Sexy": "A",
+			"Warm": "S-"
+		},
+		"suit": [
+			"pirate-of-headwind"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1371": {
+		"name": "Dance to the Rhythm",
+		"idNum": "1371",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Yulai gets on the table and spins, the hem of her skirt sending ripples through the minds of her audience.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "S-",
+			"Mature": "S+",
+			"Sexy": "SS-",
+			"Warm": "S-"
+		},
+		"suit": [
+			"emerald-trap"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1382": {
+		"name": "Star Rings",
+		"idNum": "1382",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "The first customer was a tailor who made the fabric into a dress, and soon the tailor's store turned very popular.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "A+",
+			"Mature": "SS",
+			"Sexy": "SS-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"the-love-of-feather"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1383": {
+		"name": "As Floating Foam",
+		"idNum": "1383",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gothic",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "After signing the blood covenant, the only purpose of her life is to destroy everything necessary for her masters.",
+		"rarity": 5,
+		"special-attributes": [
+			"Gothic"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "S-",
+			"Mature": "SS",
+			"Sexy": "SS-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"polar-day-echo"
+		],
+		"crafted-from": {
+			"P1": 2,
+			"P101": 4,
+			"A361": 5
+		},
+		"used-to-craft": {
+			"A9679": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1386": {
+		"name": "Star Candy Pie",
+		"idNum": "1386",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "When she hears the news, Mena is, as usual, in the store helping her mother bake delicious chocolate pies.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "S",
+			"Lively": "S+",
+			"Cute": "A-",
+			"Pure": "A-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"cute-mouse-game"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1405": {
+		"name": "Glazed Beads",
+		"idNum": "1405",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Rosalind steps into the spotlight and smiles gracefully, like she has done so many times in the streets at night.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "A-",
+			"Mature": "SS-",
+			"Sexy": "SS",
+			"Cool": "A"
+		},
+		"suit": [
+			"record-of-luster"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1417": {
+		"name": "Travel in Desert",
+		"idNum": "1417",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"mature",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "The journey in the desert is not easy, but Shanado gradually builds up close relationships with others.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "S+",
+			"Lively": "S+",
+			"Mature": "A-",
+			"Pure": "A-",
+			"Warm": "A-"
+		},
+		"suit": [
+			"stellar-prophecy"
+		],
+		"customization": [
+			"1417",
+			"1418",
+			"1419"
+		],
+		"crafted-from": {
+			"P1427": 5,
+			"P1267": 5,
+			"P24": 10
+		},
+		"obtained-from": [
+			"Store of Starlight recipe"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1418": {
+		"name": "Travel in Desert - Passion",
+		"idNum": "1418",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"mature",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "The messenger seeks Shanado's prophecy, claiming that it is to spare the people from migrating and lead a peaceful life.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "S+",
+			"Lively": "S",
+			"Mature": "A+",
+			"Pure": "B+",
+			"Warm": "S-"
+		},
+		"suit": [
+			"stellar-prophecy-v1"
+		],
+		"customization": [
+			"1417",
+			"1418",
+			"1419"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1419": {
+		"name": "Travel in Desert - Silence",
+		"idNum": "1419",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"mature",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "With the guidance of the stars, she rushes back to the temple finds the token that God has left on earth.",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "S",
+			"Lively": "SS-",
+			"Mature": "B+",
+			"Pure": "A",
+			"Warm": "A"
+		},
+		"suit": [
+			"stellar-prophecy-v2"
+		],
+		"customization": [
+			"1417",
+			"1418",
+			"1419"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1463": {
+		"name": "Flying Light",
+		"idNum": "1463",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "The poet is not as immature as she seems, and in those lonely and splendid years, she has found her own direction.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S",
+			"Elegance": "SS-",
+			"Mature": "A-",
+			"Sexy": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"poem-of-spring"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1464": {
+		"name": "A Great Talent",
+		"idNum": "1464",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"north"
+		],
+		"description": "The speculators are staring at Leforia. But she looks at the chariot as if she was meeting a dear friend.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS+",
+			"Mature": "SS",
+			"Sexy": "A-",
+			"Warm": "A-"
+		},
+		"suit": [
+			"strong-arms-braveheart"
+		],
+		"crafted-from": {
+			"P1465": 1,
+			"P24": 6,
+			"P160": 3
+		},
+		"used-to-craft": {
+			"Z10826": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1489": {
+		"name": "Transient Flicker",
+		"idNum": "1489",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "He wanted to protect the clan. Kind Austin was moved by his sincerity and left the ocean to fulfill his wish.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS-",
+			"Mature": "S-",
+			"Sexy": "S+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"luster-of-the-tides"
+		],
+		"crafted-from": {
+			"Z11007": 1,
+			"P47": 8,
+			"P24": 8,
+			"P160": 4
+		},
+		"used-to-craft": {
+			"Z11010": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1496": {
+		"name": "Quicksand",
+		"idNum": "1496",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"multicultural",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "Fortunately, the disaster helped Amina's magic lamp recover its brilliance. This is a blessing in disguise.",
+		"rarity": 5,
+		"special-attributes": [
+			"Multicultural"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "S+",
+			"Cute": "A",
+			"Sexy": "SS-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"fox-traces-on-sands"
+		],
+		"crafted-from": {
+			"H3053": 1,
+			"P47": 7,
+			"B89": 2,
+			"B244": 3
+		},
+		"used-to-craft": {
+			"Z10963": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1506": {
+		"name": "Sunshine Honey",
+		"idNum": "1506",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "The girl kept the book Liz gave her. At least in the story, they will always be undefeated, fighting side by side.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "S",
+			"Lively": "A",
+			"Cute": "S",
+			"Pure": "A-",
+			"Warm": "B"
+		},
+		"suit": [
+			"miraculous-voyage"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1544": {
+		"name": "Spiritual Attainment",
+		"idNum": "1544",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "The dragon princess finally realizes she hasn't left the palace for ages, and she is imprisoning the oyster.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "SS-",
+			"Elegance": "SS",
+			"Cute": "A-",
+			"Pure": "A-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"the-dragon-pearl"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1574": {
+		"name": "Abandoned Light",
+		"idNum": "1574",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "People start to repent for their hubris, for opposing the ritual, and for saying the priestess did nothing.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "A-",
+			"Mature": "SS-",
+			"Sexy": "SS-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"barren-wastes",
+			"barren-wastes-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1578": {
+		"name": "Shining Milky Way",
+		"idNum": "1578",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_3",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Dancing light falls into the white Milky Way and stories fuse into the night, weaving together with stardust.",
+		"rarity": 3,
+		"attributes": {
+			"Simple": "S",
+			"Lively": "S+",
+			"Cute": "B",
+			"Pure": "A",
+			"Cool": "A-"
+		},
+		"suit": [
+			"journey-in-fairyland"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1588": {
+		"name": "Sparkling Light Sea",
+		"idNum": "1588",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Everyone tried to guess why Ray was rejected. Maybe she was too proud for insisting on using a plush as her vessel?",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "SS-",
+			"Cute": "SS-",
+			"Sexy": "S-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"woven-star-dreams"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1590": {
+		"name": "Battle of Skies",
+		"idNum": "1590",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"troupe"
+		],
+		"description": "Their sharp senses mean they feel the black mist faster and can see the sky being swallowed. They are upset.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "A+",
+			"Mature": "SS-",
+			"Sexy": "SS",
+			"Cool": "A+"
+		},
+		"suit": [
+			"feathers-in-gold"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1591": {
+		"name": "Forlorn Dreams",
+		"idNum": "1591",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "Duan Yue is kind to families fallen on hard times and has to pawn their belongings at her shop.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS",
+			"Mature": "SS-",
+			"Sexy": "A",
+			"Cool": "A"
+		},
+		"suit": [
+			"autumn-lotus"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1593": {
+		"name": "Song in the Breeze",
+		"idNum": "1593",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "A gravely ill girl arrives one day and hopes Muriah can save her. She, too, has dreams for her future.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS-",
+			"Mature": "A",
+			"Pure": "SS-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"gilded-plume"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1597": {
+		"name": "Water Illusions",
+		"idNum": "1597",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"troupe"
+		],
+		"description": "There is a small cute secret to the Animus — Despite their magic and skills, they still get lost in the forest.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "SS",
+			"Elegance": "SS-",
+			"Mature": "A-",
+			"Pure": "S-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"sentimental-snow"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1614": {
+		"name": "Wheat Praying for Peace",
+		"idNum": "1614",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The white tiger girl won't let talented youth get bullied. She punishes the bullies and makes them apologize.",
+		"rarity": 4,
+		"attributes": {
+			"Simple": "C+",
+			"Lively": "B+",
+			"Cute": "A-",
+			"Pure": "B-",
+			"Cool": "B-"
+		},
+		"suit": [
+			"courageous-tiger",
+			"courageous-tiger-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1615": {
+		"name": "Poems of Velvet Snow",
+		"idNum": "1615",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Looking at the Christmas tree, the girl magically took out some golden bells and suggested to decorate with Yeda.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "SS",
+			"Cute": "A",
+			"Pure": "SS",
+			"Warm": "A-"
+		},
+		"suit": [
+			"rabbit-jingle-bell"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1624": {
+		"name": "Void Nebula",
+		"idNum": "1624",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"future",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"top_scoring",
+			"in_suit",
+			"ruin"
+		],
+		"description": "In addition to the media center's introduction NPC, she has many other ”part-time jobs”. She is used to this.",
+		"rarity": 4,
+		"special-attributes": [
+			"Future"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "SS-",
+			"Cute": "S+",
+			"Pure": "A",
+			"Cool": "B+"
+		},
+		"suit": [
+			"void-sigh",
+			"void-sigh-v1"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1626": {
+		"name": "Precise Preparation",
+		"idNum": "1626",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"ruin"
+		],
+		"description": "Even after work, Stella carries the police whistle with her, who knows which road will become chaotic and when?",
+		"rarity": 4,
+		"attributes": {
+			"Gorgeous": "B+",
+			"Lively": "A",
+			"Mature": "S+",
+			"Sexy": "S+",
+			"Cool": "A+"
+		},
+		"suit": [
+			"undying-whistle",
+			"undying-whistle-v1"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1634": {
+		"name": "One Dream in Life",
+		"idNum": "1634",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "This contrast is seen in the season. On the one hand, autumn is harvest. On the other, it is the fall.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "S",
+			"Mature": "A+",
+			"Pure": "SS",
+			"Cool": "A+"
+		},
+		"suit": [
+			"gilded-feast"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1635": {
+		"name": "Snow in Deep Winter",
+		"idNum": "1635",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "Winter is always smiling at something simple. She has no worries, and her world is pure.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "A+",
+			"Mature": "S+",
+			"Sexy": "SS-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"frosty-winter"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1644": {
+		"name": "Spirited Longings",
+		"idNum": "1644",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"troupe"
+		],
+		"description": "When the country of the dancer was invaded, fairies summoned swans to save the people with light and water.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "SS-",
+			"Elegance": "S-",
+			"Mature": "SS-",
+			"Sexy": "A",
+			"Cool": "A+"
+		},
+		"suit": [
+			"radiant-star-lake"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1655": {
+		"name": "Appreciated by All",
+		"idNum": "1655",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"simple",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"apple"
+		],
+		"description": "Every brand welcomes Zela to visit in a new season, but only the most genuine designs attract Zela.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "SS-",
+			"Lively": "A-",
+			"Cute": "SS",
+			"Sexy": "A+",
+			"Cool": "S-"
+		},
+		"suit": [
+			"colorful-highlights"
+		],
+		"crafted-from": {
+			"S4": 2,
+			"D116": 3
+		},
+		"used-to-craft": {
+			"Z12529": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1689": {
+		"name": "Endless Energy",
+		"idNum": "1689",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Yunnie loves to fly. She hopes to one day ride the wind toward the distant horizon together with the kids.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "A-",
+			"Mature": "SS",
+			"Sexy": "SS",
+			"Cool": "A+"
+		},
+		"suit": [
+			"shadows-in-the-wind",
+			"shadows-in-the-wind-v1"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1697": {
+		"name": "Unending Strategizing",
+		"idNum": "1697",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"swordsman",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"apple"
+		],
+		"description": "The secret letter isn't signed, but Rheta trusts her old friend. She finally deciphers the code on the design.",
+		"rarity": 5,
+		"special-attributes": [
+			"Swordsman"
+		],
+		"attributes": {
+			"Gorgeous": "A+",
+			"Lively": "S-",
+			"Mature": "SS-",
+			"Sexy": "S",
+			"Cool": "S-"
+		},
+		"suit": [
+			"precarious-situation"
+		],
+		"crafted-from": {
+			"Z12928": 1,
+			"S301": 4,
+			"B232": 2,
+			"S140": 4
+		},
+		"used-to-craft": {
+			"Z12943": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1713": {
+		"name": "Golden Strings",
+		"idNum": "1713",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"museum"
+		],
+		"description": "Those who heard her music could always feel her emotions, either with joy or moved to tears.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "A",
+			"Mature": "SS-",
+			"Sexy": "SS",
+			"Cool": "A+"
+		},
+		"suit": [
+			"celestial-song"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1724": {
+		"name": "Hidden in Dust",
+		"idNum": "1724",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"goddess",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "The avid believers marched out, but the soldiers, who'd been lost in pleasures, couldn't fight as they used to.",
+		"rarity": 5,
+		"special-attributes": [
+			"Goddess"
+		],
+		"attributes": {
+			"Gorgeous": "SS",
+			"Lively": "A",
+			"Mature": "S-",
+			"Sexy": "SS-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"night-splendor"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1729": {
+		"name": "Monochrome Belief",
+		"idNum": "1729",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"decomposable",
+			"street",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"apple"
+		],
+		"description": "Cecilia's signature is on all the neon lights. She pushes out new products to add more colors to the city.",
+		"rarity": 5,
+		"special-attributes": [
+			"Street"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "A",
+			"Mature": "SS-",
+			"Sexy": "SS-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"true-to-myself"
+		],
+		"crafted-from": {
+			"S2999": 1,
+			"P47": 7,
+			"P1": 3,
+			"P160": 3
+		},
+		"used-to-craft": {
+			"Z13381": 1
+		},
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1732": {
+		"name": "Indomitable Flame",
+		"idNum": "1732",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"sports",
+			"unisex",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"apple"
+		],
+		"description": "A girl donning a robe enters the stadium on the day of the championship. The patterns show her passionate spirit.",
+		"rarity": 5,
+		"special-attributes": [
+			"Sports",
+			"Unisex"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "S+",
+			"Mature": "SS-",
+			"Sexy": "A+",
+			"Cool": "A+"
+		},
+		"suit": [
+			"climactic-battle"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1736": {
+		"name": "Pure Light",
+		"idNum": "1736",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"pop",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"apple"
+		],
+		"description": "After Joyce's disease was cured, the bird never came again. But the golden color was left in all her works.",
+		"rarity": 5,
+		"special-attributes": [
+			"POP"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS",
+			"Mature": "S-",
+			"Pure": "SS-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"classic-elegance"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1747": {
+		"name": "Dance of Stars",
+		"idNum": "1747",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"pop",
+			"simple",
+			"lively",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"top_scoring",
+			"in_suit",
+			"apple"
+		],
+		"description": "The leg bracelets were made of the same material as the earrings and made her legs even more appealing.",
+		"rarity": 4,
+		"special-attributes": [
+			"POP"
+		],
+		"attributes": {
+			"Simple": "B+",
+			"Lively": "SS-",
+			"Mature": "B+",
+			"Pure": "S+",
+			"Cool": "S-"
+		},
+		"suit": [
+			"bloom-of-future",
+			"bloom-of-future-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1750": {
+		"name": "Trace of Shackles",
+		"idNum": "1750",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gothic",
+			"swordsman",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "The great war was over. Injured soldiers were lost in the intricate forest, which was engulfed in fog in no time.",
+		"rarity": 5,
+		"special-attributes": [
+			"Gothic",
+			"Swordsman"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "S-",
+			"Mature": "S+",
+			"Sexy": "SS",
+			"Cool": "A"
+		},
+		"suit": [
+			"shadow-of-nightmare"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1753": {
+		"name": "Rosy Dream",
+		"idNum": "1753",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"evening_gown",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "But time passed by, and that day never came. Standing among the royals, she seemed like an ordinary person.",
+		"rarity": 5,
+		"special-attributes": [
+			"Evening Gown"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS",
+			"Mature": "S+",
+			"Pure": "S-",
+			"Cool": "A"
+		},
+		"suit": [
+			"nocturnal-butterfly",
+			"nocturnal-butterfly-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1754": {
+		"name": "Colorful Memories",
+		"idNum": "1754",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"sports",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Renya felt as if her friends were around her and hugged her. She took a deep breath and got prepared for the match.",
+		"rarity": 5,
+		"special-attributes": [
+			"Sports"
+		],
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "SS-",
+			"Cute": "SS-",
+			"Pure": "A-",
+			"Warm": "A"
+		},
+		"suit": [
+			"sweet-hit"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1756": {
+		"name": "Jingling Jade",
+		"idNum": "1756",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"chinese_classical",
+			"gorgeous",
+			"lively",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "It wanted to keep the herb to itself, but the herb spoke when being touched. It was then she learned to think.",
+		"rarity": 5,
+		"special-attributes": [
+			"Chinese Classical"
+		],
+		"attributes": {
+			"Gorgeous": "A+",
+			"Lively": "S+",
+			"Mature": "A+",
+			"Pure": "SS-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"spring-sword-dance"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1757": {
+		"name": "Dream Doodles",
+		"idNum": "1757",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"street",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"apple"
+		],
+		"description": "Not everyone likes her style, as all new things deviate from set paths. Being different always means more pressure.",
+		"rarity": 5,
+		"special-attributes": [
+			"Street"
+		],
+		"attributes": {
+			"Gorgeous": "A+",
+			"Lively": "SS-",
+			"Cute": "SS-",
+			"Sexy": "A-",
+			"Warm": "S-"
+		},
+		"suit": [
+			"shutter-exclusive"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1761": {
+		"name": "Garland of Vines",
+		"idNum": "1761",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"evening_gown",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Slumbering seeds awakened as fresh vines pierced metal and twined around the castle, covering cold barbs.",
+		"rarity": 5,
+		"special-attributes": [
+			"Evening Gown"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "SS-",
+			"Mature": "A+",
+			"Pure": "SS+",
+			"Cool": "A"
+		},
+		"suit": [
+			"fragrant-palace"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1770": {
+		"name": "Wavelet Cluster",
+		"idNum": "1770",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "The song changes in tempo as the dancers gather and spread, like sensitive moon jellies reacting to changes in water.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "A+",
+			"Cute": "SS-",
+			"Pure": "S+",
+			"Cool": "A"
+		},
+		"suit": [
+			"moonlight-bath",
+			"moonlight-bath-v1"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1771": {
+		"name": "Tempestuous Swirl",
+		"idNum": "1771",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"goddess",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "But without hesitation, she swam back to the sea and in the silent underwater cave, she closed her eyes once again.",
+		"rarity": 5,
+		"special-attributes": [
+			"Goddess"
+		],
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "SS-",
+			"Cute": "A",
+			"Pure": "SS-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"lonely-journey"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1772": {
+		"name": "Tail of Gleams",
+		"idNum": "1772",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Sailors venture into the distance and seek messages from the wind. Their will never wavers despite the unknown.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "S+",
+			"Cute": "SS-",
+			"Pure": "S-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"spindrift-song"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1786": {
+		"name": "Dazzling Magic",
+		"idNum": "1786",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"festivals"
+		],
+		"description": "Kaja: Happy birthday, Nikki! Have you got my gift? I'll always save a front-row seat for you in my gig!",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "A-",
+			"Cute": "SS",
+			"Pure": "S+",
+			"Cool": "S-"
+		},
+		"suit": [
+			"neon-of-time"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1793": {
+		"name": "Memento Frame",
+		"idNum": "1793",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"festivals"
+		],
+		"description": "The aroma of desserts and flowers and the sound of singing and laughing filled the room.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS",
+			"Cute": "A-",
+			"Pure": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"heart-blossom"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1795": {
+		"name": "Sparkling Beads",
+		"idNum": "1795",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"future",
+			"gorgeous",
+			"lively",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"ruin"
+		],
+		"description": "There are no historical records about the Lotus Fairy. Some believe she's a mere symbol of hope born in desperation.",
+		"rarity": 5,
+		"special-attributes": [
+			"Future"
+		],
+		"attributes": {
+			"Gorgeous": "A+",
+			"Lively": "SS-",
+			"Mature": "SS-",
+			"Pure": "A",
+			"Cool": "A+"
+		},
+		"suit": [
+			"wonderland-lotus"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1797": {
+		"name": "Wilderness Gaze",
+		"idNum": "1797",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"swordsman",
+			"gorgeous",
+			"lively",
+			"mature",
+			"sexy",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "The workshop ran day and night, sending distress signals that would be hopefully picked up by a passing ship.",
+		"rarity": 5,
+		"special-attributes": [
+			"Swordsman"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "A+",
+			"Mature": "SS",
+			"Sexy": "SS-",
+			"Warm": "A"
+		},
+		"suit": [
+			"windward-feather"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1799": {
+		"name": "Serenity Shade",
+		"idNum": "1799",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"chinese_classical",
+			"gorgeous",
+			"lively",
+			"mature",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"stars"
+		],
+		"description": "She saw an endless expanse of golden fields, as everyone beamed joyfully for a good harvest.",
+		"rarity": 5,
+		"special-attributes": [
+			"Chinese Classical"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "S+",
+			"Mature": "SS",
+			"Pure": "A",
+			"Warm": "S-"
+		},
+		"suit": [
+			"ghost-goat"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1817": {
+		"name": "Melody of Heart",
+		"idNum": "1817",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"evening_gown",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Ria quickened her pace as love burned in her heart. In the darkness of night, she was like a blooming red flower.",
+		"rarity": 5,
+		"special-attributes": [
+			"Evening Gown"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "SS+",
+			"Mature": "SS-",
+			"Sexy": "A-",
+			"Cool": "A"
+		},
+		"suit": [
+			"pledge-of-heart"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1821": {
+		"name": "Fantasy Vestige",
+		"idNum": "1821",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"multicultural",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"museum"
+		],
+		"description": "The girl stared into the mayor's eyes and repeated her request. He stopped smiling and mocked her naivety.",
+		"rarity": 5,
+		"special-attributes": [
+			"Multicultural"
+		],
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "A",
+			"Mature": "SS-",
+			"Sexy": "SS",
+			"Cool": "A"
+		},
+		"suit": [
+			"veiled-scorpion"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1822": {
+		"name": "Worldwide Search",
+		"idNum": "1822",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"chinese_classical",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "Late into the night, the sound of a carriage is heard. The Grand Inn opens its doors to welcome Qiguan Yu.",
+		"rarity": 5,
+		"special-attributes": [
+			"Chinese Classical"
+		],
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "SS-",
+			"Mature": "A-",
+			"Sexy": "SS+",
+			"Cool": "A"
+		},
+		"suit": [
+			"celestial-warble"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1823": {
+		"name": "Stellar Return",
+		"idNum": "1823",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "On her odyssey, she sees a blooming flower, the vast land and oceans, stars falling off the sky, and her old self.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "SS-",
+			"Mature": "SS-",
+			"Pure": "A",
+			"Cool": "A-"
+		},
+		"suit": [
+			"lightyear-variation",
+			"lightyear-variation-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1835": {
+		"name": "Pious Utterance",
+		"idNum": "1835",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"goddess",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "As she began to chant in her idyllic voice, the crowd below followed her as they closed their eyes piously.",
+		"rarity": 5,
+		"special-attributes": [
+			"Goddess"
+		],
+		"attributes": {
+			"Gorgeous": "B+",
+			"Elegance": "SS",
+			"Mature": "SS",
+			"Sexy": "A-",
+			"Cool": "S-"
+		},
+		"suit": [
+			"night-prayers"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1836": {
+		"name": "Circlet of Dews",
+		"idNum": "1836",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"fairy",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "The goose told her, 'Listen to the sound of the wind and the river, and you will arrive at the moonlight.'",
+		"rarity": 5,
+		"special-attributes": [
+			"Fairy"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "SS-",
+			"Cute": "A",
+			"Pure": "SS-",
+			"Cool": "A"
+		},
+		"suit": [
+			"crystal-mind"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1842": {
+		"name": "Forbidden Knowledge",
+		"idNum": "1842",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"cloud"
+		],
+		"description": "This day, the Fish Spirit learned of a mysterious stargazer who could peek into the future.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "A-",
+			"Cute": "SS-",
+			"Pure": "SS",
+			"Cool": "S-"
+		},
+		"suit": [
+			"koi-tale"
+		],
+		"customization": [
+			"1842",
+			"1844",
+			"1846"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1844": {
+		"name": "Forbidden Knowledge - Crimson",
+		"idNum": "1844",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The thieves were so shocked because a fish had just turned into a human. They immediately fell unconscious from shock.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "A-",
+			"Cute": "SS",
+			"Pure": "SS",
+			"Cool": "A-"
+		},
+		"suit": [
+			"koi-tale-v1"
+		],
+		"customization": [
+			"1842",
+			"1844",
+			"1846"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1846": {
+		"name": "Forbidden Knowledge - Cerulean",
+		"idNum": "1846",
+		"idChar": "P",
+		"tags": [
+			"customizable",
+			"customized",
+			"decomposable",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "One day, the Fish Spirit was fulfilling a delivery when her customer turned out to be the one who helped her earlier.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "S-",
+			"Cute": "SS+",
+			"Pure": "S+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"koi-tale-v2"
+		],
+		"customization": [
+			"1842",
+			"1844",
+			"1846"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1862": {
+		"name": "Springtime Brew",
+		"idNum": "1862",
+		"idChar": "P",
+		"tags": [
+			"design_material",
+			"fairy",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"top_scoring",
+			"in_suit",
+			"festivals"
+		],
+		"description": "Harvest, evaporate, and make honey... Shadie's mom told her how bees made every drop of honey with hard work.",
+		"rarity": 4,
+		"special-attributes": [
+			"Fairy"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "SS-",
+			"Cute": "SS-",
+			"Pure": "B+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"sweet-spring"
+		],
+		"crafted-from": {
+			"Z14676": 3,
+			"S3216": 1,
+			"P6": 4,
+			"P160": 6
+		},
+		"used-to-craft": {
+			"Z14677": 1
+		},
+		"obtained-from": [
+			"Special event (design)"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1873": {
+		"name": "Pitter-Patter Quest",
+		"idNum": "1873",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"fairy",
+			"simple",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_4",
+			"in_suit",
+			"festivals"
+		],
+		"description": "The sunshine elf and Lilitha returned to the field and listened to the teacher telling the story of the sky.",
+		"rarity": 4,
+		"special-attributes": [
+			"Fairy"
+		],
+		"attributes": {
+			"Simple": "A-",
+			"Lively": "S",
+			"Cute": "A+",
+			"Sexy": "S",
+			"Cool": "A-"
+		},
+		"suit": [
+			"nocturne-of-rain"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1880": {
+		"name": "Spell of Slumber",
+		"idNum": "1880",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Purin's mom woke her up and asked what spell she memorized. Long ears and tail grew out as she murmured something.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "SS-",
+			"Cute": "SS",
+			"Pure": "A+",
+			"Cool": "A"
+		},
+		"suit": [
+			"sylvan-song"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1888": {
+		"name": "Emerald Grace",
+		"idNum": "1888",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"dryad",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"story_suit"
+		],
+		"description": "Without hesitation, she offered her power to make flowers bloom in winter. Then the light at her fingertips vanished.",
+		"rarity": 5,
+		"special-attributes": [
+			"Dryad"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "A-",
+			"Mature": "A",
+			"Pure": "SS",
+			"Cool": "SS"
+		},
+		"suit": [
+			"divine-radiance"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1898": {
+		"name": "Crystalline Waves",
+		"idNum": "1898",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"fairy",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "She could hear the slow flow of the currents as fish swam between her fingers and algae swayed with grace.",
+		"rarity": 5,
+		"special-attributes": [
+			"Fairy"
+		],
+		"attributes": {
+			"Gorgeous": "S-",
+			"Elegance": "S+",
+			"Cute": "A",
+			"Pure": "SS",
+			"Cool": "A-"
+		},
+		"suit": [
+			"tunes-of-the-deep"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1906": {
+		"name": "Traces of Dream",
+		"idNum": "1906",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"lolita",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "She closed her eyes and said goodbye gently. A strong power guided millions of stars to tear apart the sky.",
+		"rarity": 5,
+		"special-attributes": [
+			"Lolita"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Elegance": "S+",
+			"Cute": "S-",
+			"Sexy": "SS",
+			"Cool": "A-"
+		},
+		"suit": [
+			"astral-promise"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1907": {
+		"name": "Fluffy Style",
+		"idNum": "1907",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"street",
+			"gorgeous",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"apple"
+		],
+		"description": "In her stream, the furry toys piled up to the ceiling revealed just how much she loved all things fluffy.",
+		"rarity": 5,
+		"special-attributes": [
+			"Street"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Lively": "SS-",
+			"Cute": "A",
+			"Sexy": "SS",
+			"Cool": "A"
+		},
+		"suit": [
+			"radiant-trends"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1925": {
+		"name": "Zephyr Echo",
+		"idNum": "1925",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"multicultural",
+			"simple",
+			"lively",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"wasteland"
+		],
+		"description": "Ayesha plucked the strings as golden jewels struck the instrument, the tune riding the wind to faraway lands.",
+		"rarity": 5,
+		"special-attributes": [
+			"Multicultural"
+		],
+		"attributes": {
+			"Simple": "A-",
+			"Lively": "SS-",
+			"Cute": "A-",
+			"Sexy": "SS-",
+			"Cool": "S"
+		},
+		"suit": [
+			"ocean-chant"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1937": {
+		"name": "Soundless Rhymes",
+		"idNum": "1937",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "He explains after a long silence—his master, the gardener, is gravely ill. The rose was said to heal all diseases.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "S",
+			"Mature": "A-",
+			"Pure": "S+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"splendor-of-frost",
+			"splendor-of-frost-v1"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1942": {
+		"name": "Splash Symphony",
+		"idNum": "1942",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"simple",
+			"elegance",
+			"cute",
+			"sexy",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Ophelia found ideas in everything—babbling bubbles, gurgling splashes, and ducks' cheerful quacks all sang with her.",
+		"rarity": 5,
+		"attributes": {
+			"Simple": "A",
+			"Elegance": "S+",
+			"Cute": "A+",
+			"Sexy": "S+",
+			"Cool": "S-"
+		},
+		"suit": [
+			"cirrus-tune"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1944": {
+		"name": "Crimson Phantom",
+		"idNum": "1944",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"lolita",
+			"simple",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"lilith"
+		],
+		"description": "Pepena felt lighter than the air in the cape. She sneaked out and flew under the crimson moon where no one noticed.",
+		"rarity": 5,
+		"special-attributes": [
+			"Lolita"
+		],
+		"attributes": {
+			"Simple": "A-",
+			"Lively": "SS-",
+			"Cute": "SS-",
+			"Pure": "A-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"spectral-wonder"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1947": {
+		"name": "Iridescent Finesse",
+		"idNum": "1947",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"chinese_classical",
+			"gorgeous",
+			"elegance",
+			"mature",
+			"pure",
+			"warm",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "Prince Yong was the emperor's younger brother, so the governor lied, saying the treasure was family heritage.",
+		"rarity": 5,
+		"special-attributes": [
+			"Chinese Classical"
+		],
+		"attributes": {
+			"Gorgeous": "A",
+			"Elegance": "S+",
+			"Mature": "SS-",
+			"Pure": "B+",
+			"Warm": "A-"
+		},
+		"suit": [
+			"stately-grace"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1953": {
+		"name": "Blooming Reverie",
+		"idNum": "1953",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"chinese_classical",
+			"gorgeous",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"cloud"
+		],
+		"description": "The bud shivers. 'What's happening?' the kids are worried, but the bud suddenly blooms and unfurls its petals.",
+		"rarity": 5,
+		"special-attributes": [
+			"Chinese Classical"
+		],
+		"attributes": {
+			"Gorgeous": "A+",
+			"Elegance": "SS",
+			"Cute": "A",
+			"Pure": "SS-",
+			"Cool": "A-"
+		},
+		"suit": [
+			"twilight-aroma"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"P1997": {
+		"name": "Mellow Shimmer",
+		"idNum": "1997",
+		"idChar": "P",
+		"tags": [
+			"unique",
+			"lolita",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"hosiery",
+			"leglet",
+			"rare_5",
+			"top_scoring",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "Snow fell gently on the street lights shining on her. She pressed play on the speaker and let joyful music flow.",
+		"rarity": 5,
+		"special-attributes": [
+			"Lolita"
+		],
+		"attributes": {
+			"Gorgeous": "A-",
+			"Lively": "A+",
+			"Cute": "SS-",
+			"Pure": "SS",
+			"Cool": "A+"
+		},
+		"suit": [
+			"starlit-snowfall"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"A2599": {
+		"name": "Bamboo Leaf Bracelet",
+		"idNum": "2599",
+		"idChar": "A",
+		"tags": [
+			"unique",
+			"simple",
+			"elegance",
+			"cute",
+			"pure",
+			"cool",
+			"accessory",
+			"leglet",
+			"rare_3",
+			"in_suit",
+			"gallery"
+		],
+		"description": "Weed and moss gradually grow on the ruins. The big fire didn't burn out all the hate and love.",
+		"rarity": 3,
+		"attributes": {
+			"Simple": "S",
+			"Elegance": "A",
+			"Cute": "A-",
+			"Pure": "S",
+			"Cool": "B"
+		},
+		"suit": [
+			"mountain-bamboo"
+		],
+		"obtained-from": [
+			"Dreamweaver reward"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	},
+	"A5735": {
+		"name": "Glistening Aqua",
+		"idNum": "5735",
+		"idChar": "A",
+		"tags": [
+			"unique",
+			"gorgeous",
+			"lively",
+			"cute",
+			"pure",
+			"cool",
+			"accessory",
+			"leglet",
+			"rare_5",
+			"in_suit",
+			"pigeon"
+		],
+		"description": "By Lake Bovaly the Elven Prince meditates under a tree. Like a breeze over the lake the thought flows.",
+		"rarity": 5,
+		"attributes": {
+			"Gorgeous": "S-",
+			"Lively": "SS",
+			"Cute": "S-",
+			"Pure": "S+",
+			"Cool": "A-"
+		},
+		"suit": [
+			"after-rain"
+		],
+		"obtained-from": [
+			"Special event"
+		],
+		"itemSubType": "leglet",
+		"itemType": "leglet"
+	}
+}

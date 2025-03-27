@@ -3,10 +3,25 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import re
 import os
+import sys
 import json
 
-nikkiInfoBaseURL = 'https://ln.nikkis.info'
-mainTypes = ['hair', 'dress', 'coat', 'top', 'bottom', 'hosiery', 'shoes', 'makeup', 'accessory/hair-ornament', 'accessory/earrings', 'accessory/scarf', 'accessory/necklace', 'accessory/right-hand-ornament', 'accessory/left-hand-ornament', 'accessory/gloves', 'accessory/right-handheld', 'accessory/left-handheld', 'accessory/both-handheld', 'accessory/waist-decoration', 'accessory/veil', 'accessory/face-accessory', 'accessory/brooch', 'accessory/tattoo', 'accessory/wing', 'accessory/tail', 'accessory/foreground', 'accessory/background', 'accessory/hairpin', 'accessory/ear', 'accessory/head-ornament', 'accessory/ground', 'accessory/skin', 'soul', 'suit'];
+done = ['hair', 'coat', 'bottom', 'hosiery/leglet', 'hosiery/hosiery', 'makeup', 'dress', 'top', 'accessory/scarf', 'shoes', 'accessory/earrings', 'accessory/necklace', 'accessory/right-hand-ornament', 'accessory/left-hand-ornament', 'accessory/gloves']
+#, 'accessory/both-handheld'
+#
+
+
+#running:, 'accessory/hair-ornament', 'accessory/right-handheld', 'accessory/left-handheld'
+#, 'accessory/waist-decoration', 'accessory/veil', 'accessory/face-accessory'
+#, 'accessory/brooch', 'accessory/tattoo', 'accessory/wing', 'accessory/hairpin'
+#, 'accessory/tail', 'accessory/foreground', 'accessory/background', 'accessory/ear'
+#, 'accessory/head-ornament'
+#not:
+#,
+#, 'accessory/ground', 'accessory/skin', 'soul',
+#'suit'
+nikkiInfoBaseURL = 'https://ln.nikkis.info' #  
+mainTypes = sys.argv[1:]#[];
 titles = ['tags', 'description', 'rarity', 'attributes', 'suit', 'obtained-from']
 
 itemIds = []
@@ -99,9 +114,9 @@ def scrapeItemPage(itemId, baseSite, jsonLoc):
             newItem['used-to-craft'] = {}
             for sectLink in sectLinks:
                 itemIdd = sectLink.get_attribute('wid')
-                print('::')
-                print(itemIdd)
-                print('::')
+                #print('::')
+                #print(itemIdd)
+                #print('::')
                 newItem['used-to-craft'][itemIdd] = re.search('[0-9]+', sectLink.find_element(By.TAG_NAME, 'p').text).group()
             continue
         if sectTitle == 'crafted-from':
@@ -111,10 +126,10 @@ def scrapeItemPage(itemId, baseSite, jsonLoc):
                 newItem['crafted-from'][sectLink.get_attribute('wid')] = re.search('[0-9]+', sectLink.find_element(By.CLASS_NAME, 'secondary-content').text).group()
             continue
             
-    print()
-    print(newItem)
+    #print()
+    #print(newItem)
     itemDict[itemId] = newItem
-    print()
+    #print()
     
     
     driver.quit()
@@ -123,14 +138,16 @@ def scrapeItemPage(itemId, baseSite, jsonLoc):
         
 
 def scrapeItemPages():
+    print(mainTypes)
     for mainType in mainTypes:
+        filePath = './itemIds/{}.id'.format(mainType)
+        jsonFileLocation = './itemJSONs/{}.json'.format(mainType)
         if 'accessory' in mainType:
             mainType = 'accessory'
         baseSite = '{}/wardrobe/{}'.format(nikkiInfoBaseURL, mainType)
         print('baseSite')
         print(baseSite)
-        jsonFileLocation = './itemJSONs/{}.json'.format(mainType)
-        with open('./itemIds/{}.id'.format(mainType)) as ff:
+        with open(filePath, 'r') as ff:
             itemIdList = eval(ff.read())
         for itemId in itemIdList:
             scrapeItemPage(itemId, baseSite, jsonFileLocation)
